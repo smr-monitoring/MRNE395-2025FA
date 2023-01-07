@@ -1,0 +1,15 @@
+bookdown::gitbook:
+  css: style.css
+  config:
+    toc:
+      collapse: section
+      before: |
+        <li><a href="./">ENST 222: Environmental Data Science</a></li>
+      after: |
+        <li><a href="https://github.com/ENST222-SP2023/website" target="blank">Published with bookdown</a></li>
+#    edit: https://github.com/USERNAME/REPO/edit/BRANCH/%s
+sharing:
+      github: yes
+      facebook: no
+      twitter: no
+      all: no
