@@ -1,22 +1,23 @@
 # Syllabus {-}
 
 ## Course description {-}
-A rapidly increasing number of applications in industry, academia, and everyday life are – or should be – based on careful analysis of data. With technological advances that make environmental measurement cheaper and easier, and open science tools that make data more accessible, the environmental field could be described as “drowning in data.” In this course, students will learn how to use tools from statistics and computer science to gain insight from environmental data without "drowning" in it. They will also learn how to find and critically evaluate data sources on the web. Throughout the course, we will use literate programming and version control tools so that our analyses are reproducible and accessible. We will also explore topics related to data science ethics, which are becoming increasingly important in today’s society. We will do all of this using [R](https://cran.r-project.org/), one of the most popular and in-demand statistical programming languages in the environmental field.
-
-The course introduces students to various facets of environmental data analysis such as: 
-
-* data visualization, wrangling, and sampling to get a suitable data set
-* data management to be able to access data quickly and reproducibly
-* exploratory data analysis to generate hypotheses and intuition
-* modeling to understand and quantify patterns and prediction, and 
-* effective communication of results using visualizations and interpretable summaries
-
+A rapidly increasing number of applications in industry, academia, and everyday life are – or should be – based on careful analysis of data. With technological advances that make environmental measurement cheaper and easier, and open science tools that make data more accessible, the environmental field could be described as “drowning in data.” In this course, students will learn how to use tools from statistics and computer science to gain insight from environmental data without "drowning" in it. Throughout the course, we will use literate programming and version control tools so that our analyses are reproducible and accessible. We will also explore the ethics of data science to learn how to use these new skills fairly and responsibly. We will do all of this using [R](https://cran.r-project.org/), one of the most popular and in-demand statistical programming languages in environmental and ecological fields.
 
 ## Learning outcomes {-}
 At the completion of this course, students will be able to gain insight from environmental data **reproducibly** (with literate programming and version control) and **collaboratively** using **modern programming tools and techniques**. 
 
+Specific outcomes include being able to:
+
+* visualize data using `ggplot2`
+* wrangle and tidy data tables using the `dplyr` package to generate a suitable data set for analysis
+* conduct exploratory data analysis to generate hypotheses
+* construct statistical models to quantify patterns and make predictions
+* communicate results and document code using RMarkdown documents 
+* store data and code using a clean and clear system of organization
+* use version control tools (Git and GitHub) to collaborate and share code
+
 ## Grading {-}
-This is an "ungraded" course. I want you to focus on learning R and developing your quantitative resoning skills without the stress of losing points over minor mistakes. Mistakes are inevitable in this type of course. In fact, making mistakes and fixing them is the best way to learn! Furthermore, [research has shown](https://www.alfiekohn.org/article/case-grades/) that grading doesn't improve learning and can sometimes even harm learning. Rather than submitting work to me "in exchange" for a letter or number grade, your peers and I will provide frequent qualitative feedback. You'll decide whether and how your work should be revised. This system is designed to spark your inner motivation to do your best work. Brief learning reflections will be an important component of most assignments. Periodically throughout the semester, you will also submit more substantial learning reflections in which you give yourself a grade based on your progress in the course (since we still need to submit grades to the registrar at the end of the semester). As the instructor, I have the final say in your final grade, although I trust your judgement.
+This is an "ungraded" course. I want you to focus on learning R and developing your quantitative reasoning skills without the stress of losing points over minor mistakes. Mistakes are inevitable in this type of course. In fact, making mistakes and fixing them is the best way to learn! Furthermore, [research has shown](https://www.alfiekohn.org/article/case-grades/) that grading doesn't improve learning and can sometimes even harm learning. Rather than submitting work to me "in exchange" for a letter or number grade, you will self-evaluate your weekly assignments by comparing them to the provided solutions documents, and your peers and I will provide qualitative feedback on your projects. This should help you think intentionally about what you're learning, what you're struggling with, and what you need to do to maximize your learning in the course. Hopefully, this will spark your inner motivation to do your best work. Brief learning reflections will be an important component of most assignments. Periodically throughout the semester, you will also submit more substantial learning reflections in which you give yourself a grade based on your progress in the course (since we still need to submit grades to the registrar at the end of the semester). As the instructor, I have the final say in your grade. But I rarely find that changing a student's self-assessed grade is necessary - I trust your judgment.
 
 We have all been "raised" in a system where most of our learning efforts have revolved around grades, so I know it may be challenging to deviate from that system. I hope that this experience, which puts you in charge of your own learning process and assessment, will be liberating. 
 
