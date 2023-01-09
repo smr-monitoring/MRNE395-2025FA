@@ -24,13 +24,14 @@ pre code {
 .book .book-summary ul.summary li.divider {
     height: 0px;
 }
+
+
 /*--- LOGO ---*/
 
 .toc-logo {
   width: 200px !important;
   object-fit: contain;
   margin: 0 auto;
-  display: block;
 }
 
 .toc-logo img {
