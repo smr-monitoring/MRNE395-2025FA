@@ -1,6 +1,6 @@
 # Resources {-}
 
-## Course texts
+## Course texts {-}
 
-## Other good resources
+## Other good resources {-}
 https://bookdown.org/yihui/rmarkdown-cookbook/

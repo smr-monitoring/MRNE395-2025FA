@@ -4,11 +4,10 @@ bookdown::gitbook:
     toc:
       collapse: section
       before: |
-        <li><a href="./">ENST 222: Environmental Data Science</a></li>
+        <li class="toc-logo"><img src="images/hex-ENST222.png"></li>
       after: |
-        <li><a href="https://github.com/ENST222-SP2023/website" target="blank">Published with bookdown</a></li>
-#    edit: https://github.com/USERNAME/REPO/edit/BRANCH/%s
-sharing:
+        <li><a href="https://github.com/ENST222-SP2023/website" target="blank">View book source</a></li>
+    sharing:
       github: yes
       facebook: no
       twitter: no
