@@ -4,7 +4,7 @@ bookdown::gitbook:
     toc:
       collapse: section
       before: |
-        <li class="toc-logo"><img src="https://enst222-sp2023.github.io/website/images/hex-ENST222.png"></li>
+        <li class="toc-logo"><img src="https://github.com/ENST222-SP2023/website/blob/main/images/hex-ENST222.png"></li>
       after: |
         <li><a href="https://github.com/ENST222-SP2023/website" target="blank">View book source</a></li>
     sharing:
