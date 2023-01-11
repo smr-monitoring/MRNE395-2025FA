@@ -1,16 +1,18 @@
 # Labs {-}
 
+Below is a summary of each lab exercise with links to instructions and other relevant files. 
 
+<i class="fa fa-github"></i> Solutions will be available in the [labs repo](https://github.com/ENST222/labs)
 
 ## lab-01 {-}
 **Hello R!:** This lab exercise is designed to get you set up with the computational tools we will be using throughout the semester. Use the instructions linked below to get started. They will walk you through everything else you need to do. Note that you will submit your work by knitting your final RMarkdown document, committing your changes using Git, and pushing your changes to your GitHub lab-01 repository. Don't worry if this sounds very foreign - you will learn all about it in lab.
 
 After completing this lab, you should be able to:
 
-- clone a GitHub repository to your posit cloud workspace 
+- clone a GitHub repository to your Posit Cloud workspace 
 - edit and knit an RMarkdown file 
 - commit edits locally using Git 
-- push changes to GitHub 
+- push edits to GitHub 
 - modify simple R code to explore and visualize data 
 
 <i class="fa fa-info-circle"></i> lab-01 instructions 

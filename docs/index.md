@@ -15,13 +15,9 @@ favicon: images/favicon/favicon.ico
 ---
 # Welcome! {-}
 
-This is the homepage for ENST/MRNE 222 Environmental Data Science taught by Dr. Cassie Gurbisz in Spring 2023 at St. Mary's College of Maryland. All course materials will be posted on this site, accessible through the [Schedule](https://enst222-sp2023.github.io/website/schedule.html) page.
+This is the homepage for ENST/MRNE 222 Environmental Data Science taught by Dr. Cassie Gurbisz in Spring 2023 at St. Mary's College of Maryland. All course materials will be posted on this site, accessible through the [Schedule](https://enst222-sp2023.github.io/website/schedule.html) page and the navigation bar on the left.
 
-* **Class time and location:** Mondays and Wednesdays 8:05 - 9:20 Anne Arundel North 111
-* **Lab time and location:** Wednesdays 1:10 - 4:20 Anne Arundel West 209
-* **Office hours:** Tuesdays 11:00 - 1:00 Kent 308
-
-*This website was built with the [bookdown](https://bookdown.org/yihui/bookdown) R package with help from [rstudio4edu](https://rstudio4edu.github.io/rstudio4edu-book/). Course materials are largely adapted from [Data science in a box](https://datasciencebox.org/)*  
+*This website was built with the [bookdown](https://bookdown.org/yihui/bookdown) R package with help from [rstudio4edu](https://rstudio4edu.github.io/rstudio4edu-book/). Course materials are largely adapted from [Data Science in a Box](https://datasciencebox.org/)*  
 
 
 
