@@ -1,1 +1,42 @@
 # Schedule {-}
+
+The table below contains links to class materials (including `slides`, `lab` assignments, and coding `exercises`) and assignments that are `due` on any given date. The `resources` column links to information sources that cover each day's topics in detail. You should always have these open as you work on assignments or exercises related to those particular topics. It wouldn't be a bad idea to have relevant `slides` open as well.  
+
+|day |date    |slides                                                |lab    |exercises |resources |due                                           |
+|:---|:-------|:-----------------------------------------------------|:------|:---------|:---------|:---------------------------------------------|
+|M   |Jan 16  |*No class - MLK Day*                                  |       |          |          |                                              |
+|W   |Jan 18  |Meet the toolkit                                      |lab-01 |          |          |                                              |
+|M   |Jan 23  |Data and visualization                                |       |          |          |                                              |
+|W   |Jan 25  |Numerical and categorical data                        |lab-02 |          |          |lab-01                                        |
+|M   |Jan 30  |Tidy data and data wrangling                          |       |          |          |                                              |
+|W   |Feb 1   |Single and multiple data frames                       |lab-03 |          |          |lab-02                                        |
+|M   |Feb 6   |Tidying data                                          |       |          |          |                                              |
+|W   |Feb 8   |Data types and classes                                |lab-04 |          |          |lab-03                                        |
+|M   |Feb 13  |Work on project proposal                              |       |          |          |                                              |
+|W   |Feb 15  |Importing and recoding data                           |lab-05 |          |          |project-1-proposal                            |
+|M   |Feb 20  |Effective data visualization                          |       |          |          |                                              |
+|W   |Feb 22  |Exploratory data analysis                             |lab-06 |          |          |lab-05                                        |
+|M   |Feb 27  |Functions                                             |       |          |          |                                              |
+|W   |Mar 1   |Functions (cont.)                                     |lab-07 |          |          |lab-06                                        |
+|M   |Mar 6   |Peer review project-1 draft                           |       |          |          |project-1-draft                               |
+|W   |Mar 8   |*No class or lab; meet with group to work on project* |       |          |          |                                              |
+|F   |Mar 10  |                                                      |       |          |          |challenge-1; mid-semester learning reflection |
+|M   |Mar 13  |*No class - spring break*                             |       |          |          |                                              |
+|W   |Mar 15  |*No class - spring break*                             |       |          |          |                                              |
+|M   |Mar 20  |challenge-1 solutions and Introduction to iteration   |       |          |          |                                              |
+|W   |Mar 22  |Iteration (cont.)                                     |lab-08 |          |          |                                              |
+|F   |Mar 24  |                                                      |       |          |          |project-1-final                               |
+|M   |Mar 27  |The language of models                                |       |          |          |                                              |
+|W   |Mar 29  |Fitting and interpreting models                       |lab-09 |          |          |lab-08                                        |
+|M   |Apr 3   |Modeling nonlinear relationships                      |       |          |          |                                              |
+|W   |Apr 5   |Models with multiple predictors                       |lab-10 |          |          |project-2-proposal                            |
+|M   |Apr 10  |Models with multiple predictors (cont.)               |       |          |          |                                              |
+|W   |Apr 12  |Modeling catch-up                                     |lab-11 |          |          |lab-10                                        |
+|M   |Apr 17  |Spatial data                                          |       |          |          |                                              |
+|W   |Apr 19  |Spatial data (cont.)                                  |lab-12 |          |          |lab-11                                        |
+|F   |Apr 21  |                                                      |       |          |          |challenge-2                                   |
+|M   |Apr 24  |Peer review project-2 draft                           |       |          |          |project-2-draft                               |
+|W   |Apr 26  |challenge-2 solutions                                 |lab-13 |          |          |lab-12                                        |
+|F   |Apr 28  |                                                      |       |          |          |final learning reflection                     |
+|F   |May 5   |                                                      |       |          |          |project-2- final                              |
+|M-F |May 1-5 |*Individual meetings*                                 |       |          |          |                                              |

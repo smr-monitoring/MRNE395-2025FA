@@ -6,9 +6,9 @@ bookdown::gitbook:
       before: |
         <li class="toc-logo"><a href="./"><img src="images/enst222_hex.png"></a></li>
       after: |
-        <li><a href="https://github.com/ENST222-SP2023/website" target="blank">View website source</a></li>
+        <li><a href="https://github.com/ENST222-SP2023" target="blank"><i class="fa fa-github"></i> Course source</a></li>
     sharing:
-      github: yes
+      github: no
       facebook: no
       twitter: no
       all: no

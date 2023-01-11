@@ -29,7 +29,7 @@ pre code {
 /*--- LOGO ---*/
 
 .toc-logo {
-  width: 280px !important;
+  width: 190px !important;
   object-fit: contain;
   margin: 0 auto;
 }
@@ -41,4 +41,63 @@ pre code {
 
 .summary > li:first-child {
   height: auto !important;
+}
+
+
+.book.with-summary .book-header.fixed {
+    left: 200px;
+}
+
+.book.with-summary .book-body {
+    left: 200px;
+}
+
+.book .book-summary {
+    width: 200px;
+}
+
+/*------------ TOC --------------*/
+
+.book .book-summary {
+  background: #d1e3e2;
+  border-right: none;
+}
+
+.summary a:hover {
+  color: #56876e !important;
+}
+
+.book .book-summary ul.summary li.active>a { /*active TOC links*/
+  color: #174354 !important;
+  border-left: solid 4px;
+  border-color: #5699cc;
+  padding-left: 11px !important;
+}
+
+/*-----Body Links-------*/
+
+.book .book-body .page-wrapper .page-inner section.normal a {
+  color: #7cc19e;
+}
+
+.book .book-body .page-wrapper .page-inner section.normal a:hover {
+color: #56876e; /* darker color when hovering */
+text-decoration: none;
+}
+
+.book.font-family-1 {
+  color: #474747;
+}
+
+h1, h2, h3, h4 {
+  color: #474747;
+}
+
+.title {
+  font-size: 3em !important;
+  color: #474747;
+ }
+
+.subtitle {
+  color: #474747;
 }
