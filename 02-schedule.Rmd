@@ -1,9 +1,11 @@
 # Schedule {-}
 
-The table below contains links to class materials (including `slides`, `lab` assignments, and coding `exercises`) and assignments that are `due` on any given date. The `resources` column links to information sources that cover each day's topics in detail. You should always have these open as you work on assignments or exercises related to those particular topics. It wouldn't be a bad idea to have relevant `slides` open as well.  
+The table below contains links to class materials (including `slides`, `lab` assignments, and coding `exercises`) and when assignments are `due`. `resources` links to information sources that cover each day's topics in detail. You should always have these open as you work on assignments or exercises related to those particular topics. It wouldn't be a bad idea to have relevant `slides` open as well. 
+
 ```{r, echo = FALSE, message = FALSE, warning = FALSE}
+library(magrittr)
 options(knitr.kable.NA = '')
-knitr::kable(
-readr::read_csv("schedule.csv")
-)
+knitr::kable(readr::read_csv("schedule.csv")) %>%
+  kableExtra::kable_styling(font_size = 12,
+                            fixed_thead = T)
 ```

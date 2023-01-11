@@ -13,7 +13,7 @@ description: |
 github-repo: ENST222-SP2023/website
 favicon: images/favicon/favicon.ico
 ---
-# Welcome! {-}
+# Welcome {-}
 
 This is the homepage for ENST/MRNE 222 Environmental Data Science taught by Dr. Cassie Gurbisz in Spring 2023 at St. Mary's College of Maryland. All course materials will be posted on this site, accessible through the [Schedule](https://enst222-sp2023.github.io/website/schedule.html) page and the navigation bar on the left.
 

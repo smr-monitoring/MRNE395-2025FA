@@ -1,6 +1,6 @@
 # Labs {-}
 
-Below is a summary of each lab exercise with links to instructions and other relevant files. 
+To complete the labs, I will make an individual GitHub repo for each student. You'll clone the repo into your Posit Cloud RStudio workspace, complete the assignment, and push your work back to GitHub. I will also post links to the lab docs here for your reference. 
 
 <i class="fa fa-github"></i> Solutions will be available in the [labs repo](https://github.com/ENST222/labs)
 

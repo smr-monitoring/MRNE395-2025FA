@@ -52,6 +52,8 @@
 <link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
 <link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
 <script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
+<script src="libs/kePrint-0.0.1/kePrint.js"></script>
+<link href="libs/lightable-0.0.1/lightable.css" rel="stylesheet" />
 
 
 
@@ -112,8 +114,17 @@
 </ul></li>
 <li class="chapter" data-level="" data-path="challenges.html"><a href="challenges.html"><i class="fa fa-check"></i>Challenges</a></li>
 <li class="chapter" data-level="" data-path="projects.html"><a href="projects.html"><i class="fa fa-check"></i>Projects</a><ul>
-<li class="chapter" data-level="" data-path="projects.html"><a href="projects.html#project-1"><i class="fa fa-check"></i>Project 1</a></li>
-<li class="chapter" data-level="" data-path="projects.html"><a href="projects.html#project-2"><i class="fa fa-check"></i>Project 2</a></li>
+<li class="chapter" data-level="" data-path="projects.html"><a href="projects.html#tldr"><i class="fa fa-check"></i>TL;DR</a></li>
+<li class="chapter" data-level="" data-path="projects.html"><a href="projects.html#what-and-why"><i class="fa fa-check"></i>What and why</a></li>
+<li class="chapter" data-level="" data-path="projects.html"><a href="projects.html#data"><i class="fa fa-check"></i>Data</a></li>
+<li class="chapter" data-level="" data-path="projects.html"><a href="projects.html#collaborative-coding"><i class="fa fa-check"></i>Collaborative coding</a></li>
+<li class="chapter" data-level="" data-path="projects.html"><a href="projects.html#deliverables"><i class="fa fa-check"></i>Deliverables</a><ul>
+<li class="chapter" data-level="" data-path="projects.html"><a href="projects.html#proposal"><i class="fa fa-check"></i>Proposal</a></li>
+<li class="chapter" data-level="" data-path="projects.html"><a href="projects.html#report"><i class="fa fa-check"></i>Report</a></li>
+<li class="chapter" data-level="" data-path="projects.html"><a href="projects.html#repo-organization"><i class="fa fa-check"></i>Repo organization</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="projects.html"><a href="projects.html#project-evaluation"><i class="fa fa-check"></i>Project evaluation</a></li>
+<li class="chapter" data-level="" data-path="projects.html"><a href="projects.html#tips"><i class="fa fa-check"></i>Tips</a></li>
 </ul></li>
 <li class="chapter" data-level="" data-path="reflections.html"><a href="reflections.html"><i class="fa fa-check"></i>Reflections</a><ul>
 <li class="chapter" data-level="" data-path="reflections.html"><a href="reflections.html#mid-semester-learning-reflection"><i class="fa fa-check"></i>Mid-semester learning reflection</a></li>
@@ -145,11 +156,118 @@
             <section class="normal" id="section-">
 <div id="projects" class="section level1 unnumbered hasAnchor">
 <h1>Projects<a href="projects.html#projects" class="anchor-section" aria-label="Anchor link to header"></a></h1>
-<div id="project-1" class="section level2 unnumbered hasAnchor">
-<h2>Project 1<a href="projects.html#project-1" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<div id="tldr" class="section level2 unnumbered hasAnchor">
+<h2>TL;DR<a href="projects.html#tldr" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>For Project 1, pick an environmental dataset on a topic you already know something about, ask a question, and answer it using data. For Project 2, also do some stats!</p>
 </div>
-<div id="project-2" class="section level2 unnumbered hasAnchor">
-<h2>Project 2<a href="projects.html#project-2" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<div id="what-and-why" class="section level2 unnumbered hasAnchor">
+<h2>What and why<a href="projects.html#what-and-why" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>The goal of the projects is to apply the techniques we have covered in class to a novel dataset in a meaningful way. The mid-semester project should emphasize data wrangling, tidying, and visualization, and the end of semester project should additionally incorporate statistical modeling (bonus “points” if you use spatial data as well). For both projects, you will analyze any environmental dataset you’d like, with the one requirement that it be related to a topic with which you are already familiar. Data analysis is usually most powerful if you have expertise in a relevant topic area and can, therefore, ask questions and draw conclusions that are well-grounded in that disciplinary domain. So this is a good opportunity to apply previous coursework or experiences in a new, perhaps more quantitative context.</p>
+<p>You don’t necessarily need to do an exhaustive data analysis (i.e., do not calculate every statistic or visualize every variable), but rather demonstrate that you are proficient at:</p>
+<ul>
+<li>asking meaningful questions and answering them through data analysis</li>
+<li>using R and GitHub to code collaboratively</li>
+<li>presenting and interpreting your results using literate, reproducible programming (i.e., RMarkdown)</li>
+<li>for project 2, using statistical analysis to draw more rigorous conclusions</li>
+</ul>
+<p>To that end, you should focus on your research questions and work backwards from there. Think about what types of analysis and visualizations will help you answer your question and how your data need to be wrangled or tidied in order to complete those tasks. You’ll probably need to do some initial exploratory data analysis to get a sense of what types of questions you might ask. As you enter the analysis stage, you can stick to the packages we learned in class (<code>tidyverse</code>) or push yourself explore others if they will improve your analysis. Finally, give careful thought to how you communicate your analysis. Neatness, coherency, and clarity are all important.</p>
+<p>If at any point you are having trouble, don’t hesitate to ask for help before it’s too late. The main reason we have a lab session is so you can work while I’m in the room to provide immediate assistance. Take advantage of it!</p>
+</div>
+<div id="data" class="section level2 unnumbered hasAnchor">
+<h2>Data<a href="projects.html#data" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>In order for you to have the greatest chance of success with this project it is important that you choose a manageable dataset. This means that the data should be readily accessible and large enough that multiple relationships can be explored. As such, your dataset should have at least 50 observations and between 10 to 20 variables (exceptions can be made but you must speak with me first). The dataset’s variables should include both categorical and numerical variables. If you are using a dataset that comes in a format that we haven’t encountered in class, make sure that you are able to load it into R as this can be tricky depending on the source. Please don’t reuse datasets we have already analyzed in class.</p>
+<p>Below is a list of data repositories that might be of interest to browse. These are not all exclusively environmental data repositories, although some of them are. You’re not limited to these resources - you are welcome to identify your own datasets as well.</p>
+<ul>
+<li><a href="https://github.com/rfordatascience/tidytuesday">TidyTuesday</a></li>
+<li><a href="https://www.bikeshare.com/data/">Bikeshare data portal</a></li>
+<li><a href="https://www.kaggle.com/datasets">Kaggle datasets</a></li>
+<li><a href="https://github.com/awesomedata/awesome-public-datasets">Awesome public datasets</a></li>
+<li><a href="https://dataverse.harvard.edu/">Harvard Dataverse</a></li>
+<li><a href="https://datahub.chesapeakebay.net/">Chesapeake Bay Program Data Hub</a></li>
+<li><a href="https://waterdata.usgs.gov/nwis">USGS National Water Information System</a></li>
+<li><a href="https://www.epa.gov/toxics-release-inventory-tri-program/tri-data-and-tools">US EPA Toxic Release Inventory</a></li>
+<li><a href="https://lternet.edu/using-lter-data/">NSF Long Term Ecological Research Data Portal</a></li>
+<li><a href="https://edg.epa.gov/metadata/catalog/main/home.page">US EPA Environmental Dataset Gateway</a></li>
+<li><a href="https://www.ncei.noaa.gov/">NOAA National Centers for Environmental Information</a></li>
+</ul>
+</div>
+<div id="collaborative-coding" class="section level2 unnumbered hasAnchor">
+<h2>Collaborative coding<a href="projects.html#collaborative-coding" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<p>These are group projects for a reason - they will force you to learn how to code collaboratively. Code conflicts are inevitable and indeed very annoying. But learning how to fix them is an important skill. Embrace the messiness and try not to get too frustrated - I am here to help. Googling error messages is usually helpful as well.</p>
+<p>It should go without saying, but everyone needs to make significant code contributions to each project. Because we are using Git and GitHub, I can see each person’s commits, including what you did and when you did it. So it is very obvious if one person is doing most of the work, for example, or another person waited till the last minute to make a few sloppy contributions.</p>
+</div>
+<div id="deliverables" class="section level2 unnumbered hasAnchor">
+<h2>Deliverables<a href="projects.html#deliverables" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<div id="proposal" class="section level3 unnumbered hasAnchor">
+<h3>Proposal<a href="projects.html#proposal" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p><strong>Introduction (2 paragraphs)</strong><br />
+The introduction should introduce your general research question and your data. In the first paragraph, provide background information to introduce the topic. You should do some research and cite relevant sources to provide context that is grounded in the literature. For example, if I wanted to know whether there was evidence of increasing hurricane intensity in the <code>storms</code> dataset we have previously worked with, I would briefly review the scientific literature on why and how we know hurricanes are becoming more intense. The topic should be something you’ve already researched in some way so that you have enough expertise to spend most of your time analyzing your data rather than reading about your topic.</p>
+<p>In the second paragraph, state your research question and provide a brief overview of your dataset (where it came from, how it was collected, etc.).</p>
+<p>Please cite references parenthetically using author-date format (author’s last name, year of publication) using any citation style you’d like. APA is generally straightforward.</p>
+<p><strong>Data (1-2 paragraphs)</strong><br />
+Provide a more detailed description of your dataset, including names of files (if you have more than one), number of observations, and names of files. Then use the <code>skim()</code> function to provide a detailed summary of each dataset. Be sure to place your data in the `/data` folder of your project GitHub repository.</p>
+<p><strong>Data analysis plan (2-4 paragraphs)</strong><br />
+This section should include a brief description of
+- The outcome (response, Y) and predictor (explanatory, X) variables you will use to answer your question, if applicable
+- The comparison groups you will use, if applicable
+- Very preliminary exploratory data analysis, including summary statistics and visualizations, along with some explanation on how they help you learn more about your data
+- The method(s) that you believe will be useful in answering your question(s).
+- What results from these specific methods are needed to support your hypothesized answer?</p>
+<p><strong>References cited</strong>
+Include a list of any references you cited. You can use any citation format you’d like as long as the citations are clean and consistent. If you’re not sure, APA is a straightforward default.</p>
+<p><strong>README file</strong><br />
+The README file is like the home page of a GitHub repository. This is an important component of reproducible data analysis - someone should be able to access your GitHub repo, quickly learn what you did and why you did it in the README, and then access your analysis. Your project template includes a README.md template file. You should add your project title and author names to the README template, then populate the “Executive summary” and “Data dictionary” sections.</p>
+</div>
+<div id="report" class="section level3 unnumbered hasAnchor">
+<h3>Report<a href="projects.html#report" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>The report will more or less follow the same format as the proposal, with some additional content to contextualize your topic and present your results.</p>
+<p><strong>Introduction (at least 3-4 paragraphs)</strong><br />
+The content should be the same as your proposal introduction, but with an additional 1-2 paragraphs to expand on your background information. Please aim to cite 3-5 information sources.</p>
+<p><strong>Data (1-2 paragraphs)</strong><br />
+Same guidelines as the proposal.</p>
+<p><strong>Methods (2-4 paragraphs)</strong><br />
+This section should include a description of the methods you used and why these methods were the right approach for answering your research question(s). Include any packages you used and provide a <a href="https://www.r-bloggers.com/2018/08/how-to-cite-packages/">citation for each package</a>. Start with a general overview of your approach, and then fill in the details. You don’t necessarily need to describe every single function you used and line of code you wrote. Focus instead on the big picture: why and how you wrangled the data, created new variables, calculated data summaries, made comparisons, identified relationships and patterns, etc.</p>
+<p><strong>Results and discussion (at least 3-4 paragraphs but more is ok)</strong><br />
+This section should present and discuss the results of your data analysis. Whereas a typical scientific paper generally includes separate results and discussion sections, here we will combine them to make the report more interesting and readable. You should organize this section around each of your key findings, presenting any evidence that supports your findings and explaining/interpreting/contextualizing the finding. You may find that it will be helpful to cite additional information sources to help contextualize your results, but it really depends on the dataset, so these additional citations are optional. This section needs to include narrative text as well as code output (i.e., figures, tables, etc.). Please also include a discussion of the limitations of your analysis, what you would do if you had more time, etc.</p>
+<p><strong>References cited</strong><br />
+Same guidelines as the proposal.</p>
+<p><strong>README summary</strong><br />
+Make sure to update your README.md file so that it reflects the content of your final report.</p>
+</div>
+<div id="repo-organization" class="section level3 unnumbered hasAnchor">
+<h3>Repo organization<a href="projects.html#repo-organization" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>The following folders and files should be in your project repository:</p>
+<ul>
+<li><code>proposal.Rmd</code> + <code>proposal.md</code>: Your proposal documents</li>
+<li><code>report.Rmd</code> + <code>report.md</code>: Your report documents</li>
+<li><code>README.md</code>: your README file containing a project summary and metadata</li>
+<li><code>/data</code>: folder containing your dataset(s) in CSV or RDS format</li>
+</ul>
+<p>Your repo should not contain any other files. You may find it useful to create some “scratch” files to do exploratory analysis or code testing outside of your project file. But these files should be removed from your final repository. Our goal is to create a clean, fully reproducible repository that could be made public. That means that only your final, well-documented work should be included.</p>
+</div>
+</div>
+<div id="project-evaluation" class="section level2 unnumbered hasAnchor">
+<h2>Project evaluation<a href="projects.html#project-evaluation" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li>Question and data: The research question should be well-designed and the data should be relevant to the research question.</li>
+<li>Methods: Appropriate analytical methods should be used to address the research question.</li>
+<li>Creativity and critical thought: The project should be carefully designed and implemented, and limitations/shortcomings should be thoughtfully discussed.</li>
+<li>Professional polish: The figures and writing should follow best practices (be free of errors, well-organized, polished, etc.).</li>
+<li>Syntax: The report should take advantage of <a href="https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf">R Markdown syntax</a> to format for clarity (e.g., plain text, code chunks, bulleted lists, headings, embedded hyperlinks, inline code, etc.)</li>
+<li>Time management: The team should equitably distribute time spent on the project.</li>
+<li>Collaboration: The team should work as a cohesive unit to collaboratively complete the project. This involves good communication and defining clear expectations for each other.</li>
+<li>Reproducibility: Entire analysis can be run by an independent user in a new R Studio session and README file contains a project summary and metadata description.</li>
+</ul>
+</div>
+<div id="tips" class="section level2 unnumbered hasAnchor">
+<h2>Tips<a href="projects.html#tips" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<ul>
+<li>You’re working in the same repo as your teammates now, so merge conflicts will happen and that’s fine. Commit and push often. And ask questions when stuck.</li>
+<li>Each team member should be contributing, both in terms of quality and quantity. Talk to me if you have any issues with this.</li>
+<li>Set aside time to work together and apart (physically).</li>
+<li>In your knitted/rendered report file, your code should be hidden (use <code>echo = FALSE</code> in your code chunks) so that your document is neat and easy to read. However your document should include all of your code so that if I re-knit your R Markdown file I should be able to obtain the results you presented.</li>
+<li>Make sure to knit your final report, commit it, and then push to GitHub!</li>
+</ul>
 
 </div>
 </div>
