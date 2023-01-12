@@ -10,7 +10,7 @@ documentclass: book
 description: |
   ENST 222 course website
 # link-citations: yes
-github-repo: ENST222-SP2023/website
+github-repo: ENST222/website
 favicon: images/favicon/favicon.ico
 ---
 # Welcome {-}

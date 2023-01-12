@@ -1,5 +1,5 @@
 # Exercises {-}
 
-Application exercises will typically be posted and completed in Posit Cloud. However, they will also be linked here so that they are compiled in one place and so you know to look for them in Posit Cloud if you miss class.
+Application exercises will be posted and completed in Posit Cloud. If the class schedule indicates that we worked on a particular exercise, you can find it posted as an "assignment" in the class Posit Cloud workspace. If you miss class, I will not check whether you complete these, but they are a good place to start to catch up on what you missed.
 
-<i class="fa fa-github"></i> Solutions will be available in the [exercises repo](https://github.com/ENST222/exercises)
+<i class="fa fa-github"></i> Solutions, if applicable, will be available to view in the [exercises repo](https://github.com/ENST222/exercises)

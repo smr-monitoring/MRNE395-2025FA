@@ -1,6 +1,8 @@
 # Schedule {-}
 
-The table below contains links to class materials (including `slides`, `lab` assignments, and coding `exercises`) and when assignments are `due`. `resources` links to information sources that cover each day's topics in detail. You should always have these open as you work on assignments or exercises related to those particular topics. It wouldn't be a bad idea to have relevant `slides` open as well. 
+The table below indicates the `slides`, `lab` assignments, and application `exercises` covered each day and when assignments are `due`. `resources` links to information sources that cover course topics in detail. You should always have these open as you work on assignments or exercises related to those particular topics. It wouldn't be a bad idea to have relevant `slides` open as well. 
+
+`excercises` can be accessed directly through our Posit Cloud workspace. For each `lab`, data challenge, and course project, I will create a repository for each student or team. You'll clone your repo into your Posit Cloud workspace and complete the work from there.
 
 ```{r, echo = FALSE, message = FALSE, warning = FALSE}
 library(magrittr)

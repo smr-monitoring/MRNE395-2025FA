@@ -4,11 +4,11 @@ The following are suggestions for where to get help if you're stuck.
 
 ## Course texts {-}
 
-Obvious choices, or else I wouldn't have selected them.
-* [R 4 Data Science](http://r4ds.had.co.nz/)
-* [Introduction to Modern Statistics](https://openintro-ims.netlify.app/)
+They include most of what will be covered in class:
+* [R 4 Data Science](http://r4ds.had.co.nz/)  
+* [Introduction to Modern Statistics](https://openintro-ims.netlify.app/)  
 
-## R help function documentation {-}
+## R function documentation {-}
 
 The `help()` function and `?` help operator in R provide access to the documentation pages for R functions, data sets, and other objects, both for packages in the standard R distribution and for contributed packages. To access documentation for the standard lm (linear model) function, for example, enter the command `help(lm)` or `help("lm")`, or `?lm` or `?"lm"` (i.e., the quotes are optional).
 
@@ -19,9 +19,8 @@ Each function help page follows the same format. They start with a brief DESCRIP
 There are internet search sites that are specialized for R searches, including [search.r-project.org](search.r-project.org) (which is the site used by RSiteSearch) and [Rseek.org](https://rseek.org/). It is also possible to use a general search site like Google, by qualifying the search with “R” or the name of an R package (or both). It can be particularly helpful to paste an error message into a search engine to find out whether others have solved a problem that you encountered.
 
 ## Other good resources {-}
-- [Posit cheatsheets](https://posit.co/resources/cheatsheets/) give a good overview of popular R packages
-- The [R Style Guide](http://adv-r.had.co.nz/Style.html) provides some guidelines for writing readable and maintainable R code.  
+- [Posit cheatsheets](https://posit.co/resources/cheatsheets/) give a good quick overview of how to use the functions in popular R packages
+- The [R Style Guide](http://adv-r.had.co.nz/Style.html) provides guidelines for writing readable and maintainable R code  
 - [ggplot2](https://ggplot2-book.org/) book
 - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) book
-- [Everything you ever wanted to know about RMarkdown and more](https://bookdown.org/yihui/rmarkdown-cookbook/)  
-- Data visualization book
+- [RMarkdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)
