@@ -9,5 +9,6 @@ library(magrittr)
 options(knitr.kable.NA = '')
 knitr::kable(readr::read_csv("schedule.csv")) %>%
   kableExtra::kable_styling(font_size = 12,
-                            fixed_thead = T)
+                            fixed_thead = T,
+                            bootstrap_options = "hover")
 ```
