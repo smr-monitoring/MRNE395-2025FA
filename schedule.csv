@@ -1,37 +1,37 @@
 day,date,slides,lab,exercises,resources,due
-M,1/16,*No class - MLK Day*,,,,
-W,1/18,[Meet the toolkit](https://enst222.github.io/slides/01-meet-the-toolkit/01-meet-the-toolkit.html),[lab-01](https://enst222.github.io/website/labs-1.html#lab-01),ae-01-covid,[R4DS Ch 1](https://r4ds.had.co.nz/introduction.html),
-M,1/23,Data and visualization,,,[R4DS Ch 3](https://r4ds.had.co.nz/data-visualisation.html) and [Ch 4](https://r4ds.had.co.nz/workflow-basics.html),
-W,1/25,Numerical and categorical data,lab-02,,[R4DS Ch 3](https://r4ds.had.co.nz/data-visualisation.html),[lab-01](https://enst222.github.io/website/labs-1.html#lab-01)
-M,1/30,Tidy data and data wrangling,,,,
-W,2/1,Single and multiple data frames,lab-03,,,lab-02
-M,2/6,Tidying data,,,,
-W,2/8,Data types and classes,lab-04,,,lab-03
-M,2/13,Work on project proposal,,,,
-W,2/15,Importing and recoding data,lab-05,,,[project-1-proposal](https://enst222.github.io/website/projects.html)
-M,2/20,Effective data visualization,,,,
-W,2/22,Exploratory data analysis,lab-06,,,lab-05
-M,2/27,Functions,,,,
-W,3/1,Functions (cont.),lab-07,,,lab-06
-M,3/6,Peer review project-1 draft,,,,[project-1-draft](https://enst222.github.io/website/projects.html)
-W,3/8,*No class or lab; meet with group to work on project*,,,,
-F,3/10,,,,,[challenge-1](https://enst222.github.io/website/challenges.html); [mid-semester learning reflection](https://enst222.github.io/website/reflections.html#mid-semester-learning-reflection)
-M,3/13,*No class - spring break*,,,,
-W,3/15,*No class - spring break*,,,,
-M,3/20,challenge-1 solutions and Introduction to iteration,,,,
-W,3/22,Iteration (cont.),lab-08,,,
-F,3/24,,,,,[project-1-final](https://enst222.github.io/website/projects.html)
-M,3/27,The language of models,,,,
-W,3/29,Fitting and interpreting models,lab-09,,,lab-08
-M,4/3,Modeling nonlinear relationships,,,,
-W,4/5,Models with multiple predictors,lab-10,,,[project-2-proposal](https://enst222.github.io/website/projects.html)
-M,4/10,Models with multiple predictors (cont.),,,,
-W,4/12,Modeling catch-up,lab-11,,,lab-10
-M,4/17,Spatial data,,,,
-W,4/19,Spatial data (cont.),lab-12,,,lab-11
-F,4/21,,,,,[challenge-2](https://enst222.github.io/website/challenges.html)
-M,4/24,Peer review project-2 draft,,,,[project-2-draft](https://enst222.github.io/website/projects.html)
-W,4/26,challenge-2 solutions,lab-13,,,lab-12
-F,4/28,,,,,[final learning reflection](https://enst222.github.io/website/reflections.html#final-learning-reflection)
-F,5/5,,,,,[project-2- final](https://enst222.github.io/website/projects.html)
+M,16-Jan,*No class - MLK Day*,,,,
+W,18-Jan,[Welcome](https://enst222.github.io/slides/01-welcome/01-welcome.html); [Meet the toolkit](https://enst222.github.io/slides/02-toolkit/01-toolkit.html),[lab-01](https://enst222.github.io/labs/lab-01/lab-01-hello-r.html),ae-01-covid,[R4DS Ch 1](https://r4ds.had.co.nz/introduction.html),
+M,23-Jan,[Data and visualization](https://enst222.github.io/slides/03-data-viz/03-data-viz.html),,,[R4DS Ch 3](https://r4ds.had.co.nz/data-visualisation.html) and [Ch 4](https://r4ds.had.co.nz/workflow-basics.html),
+W,25-Jan,Numerical data;  Categorical data,lab-02,,[R4DS Ch 3](https://r4ds.had.co.nz/data-visualisation.html),[lab-01](https://enst222.github.io/website/labs-1.html#lab-01)
+M,30-Jan,Tidy data and data wrangling,,,,
+W,1-Feb,Single and multiple data frames,lab-03,,,lab-02
+M,6-Feb,Tidying data,,,,
+W,8-Feb,Data types and classes,lab-04,,,lab-03
+M,13-Feb,Work on project proposal,,,,
+W,15-Feb,Importing and recoding data,lab-05,,,[project-1-proposal](https://enst222.github.io/website/projects.html)
+M,20-Feb,Effective data visualization,,,,
+W,22-Feb,Exploratory data analysis,lab-06,,,lab-05
+M,27-Feb,Functions,,,,
+W,1-Mar,Functions (cont.),lab-07,,,lab-06
+M,6-Mar,Peer review project-1 draft,,,,[project-1-draft](https://enst222.github.io/website/projects.html)
+W,8-Mar,*No class or lab; meet with group to work on project*,,,,
+F,10-Mar,,,,,[challenge-1](https://enst222.github.io/website/challenges.html); [mid-semester learning reflection](https://enst222.github.io/website/reflections.html#mid-semester-learning-reflection)
+M,13-Mar,*No class - spring break*,,,,
+W,15-Mar,*No class - spring break*,,,,
+M,20-Mar,challenge-1 solutions and Introduction to iteration,,,,
+W,22-Mar,Iteration (cont.),lab-08,,,
+F,24-Mar,,,,,[project-1-final](https://enst222.github.io/website/projects.html)
+M,27-Mar,The language of models,,,,
+W,29-Mar,Fitting and interpreting models,lab-09,,,lab-08
+M,3-Apr,Modeling nonlinear relationships,,,,
+W,5-Apr,Models with multiple predictors,lab-10,,,[project-2-proposal](https://enst222.github.io/website/projects.html)
+M,10-Apr,Models with multiple predictors (cont.),,,,
+W,12-Apr,Modeling catch-up,lab-11,,,lab-10
+M,17-Apr,Spatial data,,,,
+W,19-Apr,Spatial data (cont.),lab-12,,,lab-11
+F,21-Apr,,,,,[challenge-2](https://enst222.github.io/website/challenges.html)
+M,24-Apr,Peer review project-2 draft,,,,[project-2-draft](https://enst222.github.io/website/projects.html)
+W,26-Apr,challenge-2 solutions,lab-13,,,lab-12
+F,28-Apr,,,,,[final learning reflection](https://enst222.github.io/website/reflections.html#final-learning-reflection)
+F,5-May,,,,,[project-2- final](https://enst222.github.io/website/projects.html)
 M-F,May 1-5,*Individual meetings*,,,,

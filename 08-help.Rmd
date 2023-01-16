@@ -5,8 +5,9 @@ The following are suggestions for where to get help if you're stuck.
 ## Course texts {-}
 
 They include most of what will be covered in class:
-* [R 4 Data Science](http://r4ds.had.co.nz/)  
-* [Introduction to Modern Statistics](https://openintro-ims.netlify.app/)  
+
+- [R 4 Data Science](http://r4ds.had.co.nz/)  
+- [Introduction to Modern Statistics](https://openintro-ims.netlify.app/)   
 
 ## R function documentation {-}
 
