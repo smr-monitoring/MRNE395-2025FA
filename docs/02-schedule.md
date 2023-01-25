@@ -58,8 +58,8 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
    <td style="text-align:left;"> 1/30 </td>
    <td style="text-align:left;"> Tidy data and data wrangling </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> ae-04 </td>
+   <td style="text-align:left;"> [R4DS Ch 5](https://r4ds.had.co.nz/transform.html) </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
@@ -67,17 +67,17 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
    <td style="text-align:left;"> 2/1 </td>
    <td style="text-align:left;"> Single and multiple data frames </td>
    <td style="text-align:left;"> lab-03 </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> lab-02 </td>
+   <td style="text-align:left;"> ae-05 </td>
+   <td style="text-align:left;"> [R4DS Ch 5](https://r4ds.had.co.nz/transform.html) and [Ch 13](https://r4ds.had.co.nz/relational-data.html) </td>
+   <td style="text-align:left;"> [lab-02](https://enst222.github.io/website/labs-1.html#lab-02) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> M </td>
    <td style="text-align:left;"> 2/6 </td>
    <td style="text-align:left;"> Tidying data </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> ae-06 </td>
+   <td style="text-align:left;"> [R4DS Ch 12](https://r4ds.had.co.nz/tidy-data.html) </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>

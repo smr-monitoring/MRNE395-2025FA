@@ -3,9 +3,9 @@ M,1/16,*No class - MLK Day*,,,,
 W,1/18,[Welcome](https://enst222.github.io/slides/01-welcome/01-welcome.html) and [Meet the toolkit](https://enst222.github.io/slides/02-toolkit/02-toolkit.html),[lab-01](https://enst222.github.io/website/labs-1.html#lab-01),ae-01and ae-02,[R4DS Ch 1](https://r4ds.had.co.nz/introduction.html),
 M,1/23,[Data and visualization](https://enst222.github.io/slides/03-data-viz/03-data-viz.html),,ae-03 1-6,[R4DS Ch 3](https://r4ds.had.co.nz/data-visualisation.html) and [Ch 4](https://r4ds.had.co.nz/workflow-basics.html),
 W,1/25,[Numerical data](https://enst222.github.io/slides/04-viz-num/04-viz-num.html) and  [Categorical data](https://enst222.github.io/slides/05-viz-cat/05-viz-cat.html),[lab-02](https://enst222.github.io/website/labs-1.html#lab-02),ae-03 8-12,[R4DS Ch 3](https://r4ds.had.co.nz/data-visualisation.html) and [Ch 4](https://r4ds.had.co.nz/workflow-basics.html),[lab-01](https://enst222.github.io/website/labs-1.html#lab-01)
-M,1/30,Tidy data and data wrangling,,,,
-W,2/1,Single and multiple data frames,lab-03,,,lab-02
-M,2/6,Tidying data,,,,
+M,1/30,Tidy data and data wrangling,,ae-04,[R4DS Ch 5](https://r4ds.had.co.nz/transform.html),
+W,2/1,Single and multiple data frames,lab-03,ae-05,[R4DS Ch 5](https://r4ds.had.co.nz/transform.html) and [Ch 13](https://r4ds.had.co.nz/relational-data.html),[lab-02](https://enst222.github.io/website/labs-1.html#lab-02)
+M,2/6,Tidying data,,ae-06,[R4DS Ch 12](https://r4ds.had.co.nz/tidy-data.html),
 W,2/8,Data types and classes,lab-04,,,lab-03
 M,2/13,Work on project proposal,,,,
 W,2/15,Importing and recoding data,lab-05,,,[project-1-proposal](https://enst222.github.io/website/projects.html)
