@@ -56,7 +56,7 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
   <tr>
    <td style="text-align:left;"> M </td>
    <td style="text-align:left;"> 1/30 </td>
-   <td style="text-align:left;"> Tidy data and data wrangling </td>
+   <td style="text-align:left;"> [Tidy data](https://enst222.github.io/slides/06-tidy-data/06-tidy-data.html) </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> ae-04 </td>
    <td style="text-align:left;"> [R4DS Ch 5](https://r4ds.had.co.nz/transform.html) </td>
@@ -65,7 +65,7 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
   <tr>
    <td style="text-align:left;"> W </td>
    <td style="text-align:left;"> 2/1 </td>
-   <td style="text-align:left;"> Single and multiple data frames </td>
+   <td style="text-align:left;"> [Single](https://enst222.github.io/slides/07-single-df/07-single-df.html) and [multiple data frames](https://enst222.github.io/slides/08-multi-df/08-multi-df.html#1) </td>
    <td style="text-align:left;"> lab-03 </td>
    <td style="text-align:left;"> ae-05 </td>
    <td style="text-align:left;"> [R4DS Ch 5](https://r4ds.had.co.nz/transform.html) and [Ch 13](https://r4ds.had.co.nz/relational-data.html) </td>
