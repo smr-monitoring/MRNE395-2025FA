@@ -65,9 +65,9 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
   <tr>
    <td style="text-align:left;"> W </td>
    <td style="text-align:left;"> 2/1 </td>
-   <td style="text-align:left;"> [Single](https://enst222.github.io/slides/07-single-df/07-single-df.html) and [multiple data frames](https://enst222.github.io/slides/08-multi-df/08-multi-df.html#1) </td>
-   <td style="text-align:left;"> lab-03 </td>
-   <td style="text-align:left;"> ae-05 </td>
+   <td style="text-align:left;"> Single data frames [slides](https://enst222.github.io/slides/07-single-df/07-single-df.html); [video](https://www.youtube.com/watch?v=0229Uq2hkJo)  and multiple data frames [slides](https://enst222.github.io/slides/08-multi-df/08-multi-df.html#1); [video](https://www.youtube.com/watch?v=VdV5ABsaf5Y) </td>
+   <td style="text-align:left;"> [lab-03](https://enst222.github.io/website/labs-1.html#lab-03) </td>
+   <td style="text-align:left;"> ae-05 and ae-06 </td>
    <td style="text-align:left;"> [R4DS Ch 5](https://r4ds.had.co.nz/transform.html) and [Ch 13](https://r4ds.had.co.nz/relational-data.html) </td>
    <td style="text-align:left;"> [lab-02](https://enst222.github.io/website/labs-1.html#lab-02) </td>
   </tr>
@@ -76,7 +76,7 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
    <td style="text-align:left;"> 2/6 </td>
    <td style="text-align:left;"> Tidying data </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> ae-06 </td>
+   <td style="text-align:left;">  </td>
    <td style="text-align:left;"> [R4DS Ch 12](https://r4ds.had.co.nz/tidy-data.html) </td>
    <td style="text-align:left;">  </td>
   </tr>
