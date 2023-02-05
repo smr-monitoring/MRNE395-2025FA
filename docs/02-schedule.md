@@ -74,9 +74,9 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
   <tr>
    <td style="text-align:left;"> M </td>
    <td style="text-align:left;"> 2/6 </td>
-   <td style="text-align:left;"> Tidying data </td>
+   <td style="text-align:left;"> [Tidying data](https://enst222.github.io/slides/09-tidying/09-tidying.html#1) </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> ae-07 </td>
    <td style="text-align:left;"> [R4DS Ch 12](https://r4ds.had.co.nz/tidy-data.html) </td>
    <td style="text-align:left;">  </td>
   </tr>
