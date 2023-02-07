@@ -83,19 +83,19 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
   <tr>
    <td style="text-align:left;"> W </td>
    <td style="text-align:left;"> 2/8 </td>
-   <td style="text-align:left;"> Data types and classes </td>
-   <td style="text-align:left;"> lab-04 </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> lab-03 </td>
+   <td style="text-align:left;"> [Data types](https://enst222.github.io/slides/10-data-types/10-data-types.html#1) </td>
+   <td style="text-align:left;"> [lab-04](https://enst222.github.io/website/labs-1.html#lab-04) </td>
+   <td style="text-align:left;"> ae-08 </td>
+   <td style="text-align:left;"> [R4DS Ch 20](https://r4ds.had.co.nz/vectors.html) </td>
+   <td style="text-align:left;"> [lab-03](https://enst222.github.io/website/labs-1.html#lab-03) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> M </td>
    <td style="text-align:left;"> 2/13 </td>
-   <td style="text-align:left;"> Work on project proposal </td>
+   <td style="text-align:left;"> [Data classes](https://enst222.github.io/slides/11-data-classes/11-data-classes.html#1); work on project proposal </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> [R4DS Ch 15](https://r4ds.had.co.nz/factors.html) and [Ch 16](https://r4ds.had.co.nz/dates-and-times.html) </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>

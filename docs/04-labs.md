@@ -22,13 +22,15 @@ Solutions will be posted in each lab repo on the [ENST222-SP2023 GitHub organiza
 [Lab 01](https://enst222.github.io/lab-instructions/lab-01/lab-01-hello-r.html) for step-by-step instructions on cloning a repo into an RStudio project.
 
 ## lab-04 {-}
-**Introduction to project-1 and Git conflicts**
+**Introduction to project-1 and Git conflicts:** First we will meet our Project 1 teams and go over the details of our first course project. Then we'll learn about how to code collaboratively using GitHub and how to resolve inevitable merge conflicts. Details on resolving merge conflicts are linked below. We'll also catch up on the concepts we've covered so far in class.
+
+<i class="fa fa-info-circle"></i> [lab-04 merge conflicts](https://enst222.github.io/lab-instructions/lab-04/lab-04-merge-conflicts.html)
 
 ## lab-05 {-}
 **Data wrangling and project-1 group work**
 
 ## lab-06 {-}
-**Junk chart challenge and project-1 group work**
+**More data stuff and project-1 group work**
 
 ## lab-07 {-}
 **project-1 group work**
