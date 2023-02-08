@@ -21,6 +21,8 @@ Solutions will be posted in each lab repo on the [ENST222-SP2023 GitHub organiza
 **Global deforestation:** In this lab, we continue to ask questions and answer them by visualizing data. We also begin to practice data wrangling and tidying. Questions and instructions are included in the template file provided. To get started, go to the course GitHub organization and locate your assignment repo, which should be named `lab-03-YOUR_GITHUB_USERNAME`. Copy the URL of the repo, and clone it in RStudio. Refer to
 [Lab 01](https://enst222.github.io/lab-instructions/lab-01/lab-01-hello-r.html) for step-by-step instructions on cloning a repo into an RStudio project.
 
+<i class="fa fa-github"></i> [lab-03-solutions](https://github.com/ENST222-2023SP/lab-03)
+
 ## lab-04 {-}
 **Introduction to project-1 and Git conflicts:** First we will meet our Project 1 teams and go over the details of our first course project. Then we'll learn about how to code collaboratively using GitHub and how to resolve inevitable merge conflicts. Details on resolving merge conflicts are linked below. We'll also catch up on the concepts we've covered so far in class.
 
