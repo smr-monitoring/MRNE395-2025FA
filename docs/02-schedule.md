@@ -92,19 +92,19 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
   <tr>
    <td style="text-align:left;"> M </td>
    <td style="text-align:left;"> 2/13 </td>
-   <td style="text-align:left;"> [Data classes](https://enst222.github.io/slides/11-data-classes/11-data-classes.html#1); work on project proposal </td>
+   <td style="text-align:left;"> [Data classes](https://enst222.github.io/slides/11-data-classes/11-data-classes.html#1) </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> ae-08 </td>
    <td style="text-align:left;"> [R4DS Ch 15](https://r4ds.had.co.nz/factors.html) and [Ch 16](https://r4ds.had.co.nz/dates-and-times.html) </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> W </td>
    <td style="text-align:left;"> 2/15 </td>
-   <td style="text-align:left;"> Importing and recoding data </td>
+   <td style="text-align:left;"> [Importing](https://enst222.github.io/slides/12-data-import/12-data-import.html#1) and [recoding](https://enst222.github.io/slides/13-data-recode/13-data-recode.html#1) data </td>
    <td style="text-align:left;"> lab-05 </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> ae-09 </td>
+   <td style="text-align:left;"> [R4DS Ch 11](https://r4ds.had.co.nz/data-import.html) </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
