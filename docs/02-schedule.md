@@ -102,7 +102,7 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
    <td style="text-align:left;"> W </td>
    <td style="text-align:left;"> 2/15 </td>
    <td style="text-align:left;"> [Importing](https://enst222.github.io/slides/12-data-import/12-data-import.html#1) and [recoding](https://enst222.github.io/slides/13-data-recode/13-data-recode.html#1) data </td>
-   <td style="text-align:left;"> lab-05 </td>
+   <td style="text-align:left;"> [lab-05](https://enst222.github.io/website/labs-1.html#lab-05) </td>
    <td style="text-align:left;"> ae-09 </td>
    <td style="text-align:left;"> [R4DS Ch 11](https://r4ds.had.co.nz/data-import.html) </td>
    <td style="text-align:left;">  </td>
@@ -123,7 +123,7 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
    <td style="text-align:left;"> lab-06 </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> lab-05 </td>
+   <td style="text-align:left;"> [lab-05](https://enst222.github.io/website/labs-1.html#lab-05) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> M </td>

@@ -24,15 +24,15 @@ Solutions will be posted in each lab repo on the [ENST222-SP2023 GitHub organiza
 <i class="fa fa-github"></i> [lab-03-solutions](https://github.com/ENST222-2023SP/lab-03)
 
 ## lab-04 {-}
-**Introduction to project-1 and Git conflicts:** First we will meet our Project 1 teams and go over the details of our first course project. Then we'll learn about how to code collaboratively using GitHub and how to resolve inevitable merge conflicts. Details on resolving merge conflicts are linked below. We'll also catch up on the concepts we've covered so far in class.
+**Introduction to project-1 and Git conflicts:** First we will meet our Project 1 teams and go over the details of our first course project. Then we'll learn about how to code collaboratively using GitHub and how to resolve inevitable merge conflicts. Instructions for our merge conflict activity are linked below. We'll also catch up on the concepts we've covered so far in class.
 
-<i class="fa fa-info-circle"></i> [lab-04 merge conflicts](https://enst222.github.io/lab-instructions/lab-04/lab-04-merge-conflicts.html)
+<i class="fa fa-info-circle"></i> [lab-04 instructions](https://enst222.github.io/lab-instructions/lab-04/lab-04-merge-conflicts.html)
 
 ## lab-05 {-}
-**Data wrangling and project-1 group work**
+**Data wrangling and project-1 group work:** Today we'll work more on data wrangling and you'll spend some time working on your project-1 proposal. To get started, go to the course GitHub organization and locate your assignment repo, which should be named lab-05-YOUR_GITHUB_USERNAME. Copy the URL of the repo, and clone it in RStudio. Refer to Lab 01 for step-by-step instructions on cloning a repo.
 
 ## lab-06 {-}
-**More data stuff and project-1 group work**
+**Exploratory data analysis and project-1 group work**
 
 ## lab-07 {-}
 **project-1 group work**
