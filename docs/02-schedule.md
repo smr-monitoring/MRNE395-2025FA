@@ -110,10 +110,10 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
   <tr>
    <td style="text-align:left;"> M </td>
    <td style="text-align:left;"> 2/20 </td>
-   <td style="text-align:left;"> Effective data visualization </td>
+   <td style="text-align:left;"> [Effective data viz](https://enst222.github.io/slides/14-effective-dataviz/14-effective-dataviz.html#1) </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> ae-10 </td>
+   <td style="text-align:left;"> [ggplot2 book](https://ggplot2-book.org/); [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) </td>
    <td style="text-align:left;"> [project-1-proposal](https://enst222.github.io/website/projects.html) </td>
   </tr>
   <tr>
@@ -141,7 +141,7 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
    <td style="text-align:left;"> lab-07 </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> lab-06 </td>
+   <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> M </td>
