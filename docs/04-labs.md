@@ -31,8 +31,10 @@ Solutions will be posted in each lab repo on the [ENST222-SP2023 GitHub organiza
 ## lab-05 {-}
 **Data wrangling and project-1 group work:** Today we'll work more on data wrangling and you'll spend some time working on your project-1 proposal. To get started, go to the course GitHub organization and locate your assignment repo, which should be named lab-05-YOUR_GITHUB_USERNAME. Copy the URL of the repo, and clone it in RStudio. Refer to Lab 01 for step-by-step instructions on cloning a repo.
 
+<i class="fa fa-github"></i> [lab-05-solutions](https://github.com/ENST222-2023SP/lab-05)
+
 ## lab-06 {-}
-**Exploratory data analysis and project-1 group work**
+**Exploratory data analysis:** In this lab, we will review lab-05, discuss the [exploratory data analysis slides](https://enst222.github.io/slides/15-doing-data-science/15-doing-data-science.html#1), and walk through an example project analysis on CO~2~ emissions (you can find this in R Studio Cloud in the lab-06-co2-case-study assignment). You'll then have time to confer with me and work with your team on project 1. You don't have to submit anything for this lab. Instead, you should continue to make progress on your project.
 
 ## lab-07 {-}
 **project-1 group work**

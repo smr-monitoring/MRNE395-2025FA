@@ -119,10 +119,10 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
   <tr>
    <td style="text-align:left;"> W </td>
    <td style="text-align:left;"> 2/22 </td>
-   <td style="text-align:left;"> Exploratory data analysis </td>
-   <td style="text-align:left;"> lab-06 </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> [Doing data science](https://enst222.github.io/slides/15-doing-data-science/15-doing-data-science.html#1) </td>
+   <td style="text-align:left;"> [lab-06](https://enst222.github.io/website/labs-1.html#lab-06) </td>
+   <td style="text-align:left;"> ae-10 </td>
+   <td style="text-align:left;"> [R4DS Ch 7](https://r4ds.had.co.nz/exploratory-data-analysis.html) </td>
    <td style="text-align:left;"> [lab-05](https://enst222.github.io/website/labs-1.html#lab-05) </td>
   </tr>
   <tr>
