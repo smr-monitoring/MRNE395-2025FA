@@ -128,10 +128,10 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
   <tr>
    <td style="text-align:left;"> M </td>
    <td style="text-align:left;"> 2/27 </td>
-   <td style="text-align:left;"> Functions </td>
+   <td style="text-align:left;"> [Functions](https://enst222.github.io/slides/16-functions/16-functions.html#1) </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> ae-11 </td>
+   <td style="text-align:left;"> [R4DS Ch 19](https://r4ds.had.co.nz/functions.html) </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>

@@ -11,7 +11,7 @@ M,2/13,[Data classes](https://enst222.github.io/slides/11-data-classes/11-data-c
 W,2/15,[Importing](https://enst222.github.io/slides/12-data-import/12-data-import.html#1) and [recoding](https://enst222.github.io/slides/13-data-recode/13-data-recode.html#1) data,[lab-05](https://enst222.github.io/website/labs-1.html#lab-05),ae-09,[R4DS Ch 11](https://r4ds.had.co.nz/data-import.html),
 M,2/20,[Effective data viz](https://enst222.github.io/slides/14-effective-dataviz/14-effective-dataviz.html#1),,ae-10,[ggplot2 book](https://ggplot2-book.org/); [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/),[project-1-proposal](https://enst222.github.io/website/projects.html)
 W,2/22,[Doing data science](https://enst222.github.io/slides/15-doing-data-science/15-doing-data-science.html#1),[lab-06](https://enst222.github.io/website/labs-1.html#lab-06),ae-10,[R4DS Ch 7](https://r4ds.had.co.nz/exploratory-data-analysis.html),[lab-05](https://enst222.github.io/website/labs-1.html#lab-05)
-M,2/27,Functions,,,,
+M,2/27,[Functions](https://enst222.github.io/slides/16-functions/16-functions.html#1),,ae-11,[R4DS Ch 19](https://r4ds.had.co.nz/functions.html),
 W,3/1,Functions (cont.),lab-07,,,
 M,3/6,Peer review project-1 draft,,,,[project-1-draft](https://enst222.github.io/website/projects.html)
 W,3/8,*No class or lab; meet with group to work on project*,,,,
