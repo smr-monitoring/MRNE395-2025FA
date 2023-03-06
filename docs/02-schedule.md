@@ -1,6 +1,6 @@
 # Schedule {-}
 
-The table below contains the `slides`, `lab` assignments, and application `exercises` covered each day and when assignments are `due`. `resources` links to information sources that cover course topics in detail. You should always have these open as you work on assignments or exercises related to those particular topics. It wouldn't be a bad idea to have relevant `slides` open as well. 
+The table below contains the `slides`, `lab` assignments, and application `exercises` covered each day and when assignments are `due`. `resources` links to information sources that cover course topics in detail. You should always have these open as you work on assignments or exercises related to those particular topics. It wouldn't be a bad idea to have relevant `slides` open as well.
 
 `excercises` can be accessed directly through our Posit Cloud workspace. For each `lab`, data challenge, and course project, I will create a repository for each student or team. You'll clone your repo into your Posit Cloud workspace and complete the work from there.
 
@@ -168,7 +168,16 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> [challenge-1](https://enst222.github.io/website/challenges.html); [mid-semester learning reflection](https://enst222.github.io/website/reflections.html#mid-semester-learning-reflection) </td>
+   <td style="text-align:left;"> [mid-semester learning reflection](https://enst222.github.io/website/reflections.html#mid-semester-learning-reflection) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> S </td>
+   <td style="text-align:left;"> 3/12 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> project-01-draft for CBG review </td>
   </tr>
   <tr>
    <td style="text-align:left;"> M </td>
@@ -191,7 +200,7 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
   <tr>
    <td style="text-align:left;"> M </td>
    <td style="text-align:left;"> 3/20 </td>
-   <td style="text-align:left;"> challenge-1 solutions and Introduction to iteration </td>
+   <td style="text-align:left;"> Introduction to iteration </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
