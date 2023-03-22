@@ -200,7 +200,7 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
   <tr>
    <td style="text-align:left;"> M </td>
    <td style="text-align:left;"> 3/20 </td>
-   <td style="text-align:left;"> Introduction to iteration </td>
+   <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
@@ -209,15 +209,15 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
   <tr>
    <td style="text-align:left;"> W </td>
    <td style="text-align:left;"> 3/22 </td>
-   <td style="text-align:left;"> Iteration (cont.) </td>
-   <td style="text-align:left;"> lab-08 </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> lab-08: project group work </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> F </td>
-   <td style="text-align:left;"> 3/24 </td>
+   <td style="text-align:left;"> S </td>
+   <td style="text-align:left;"> 3/26 </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
@@ -227,7 +227,7 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
   <tr>
    <td style="text-align:left;"> M </td>
    <td style="text-align:left;"> 3/27 </td>
-   <td style="text-align:left;"> The language of models </td>
+   <td style="text-align:left;"> Introduction to iteration </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
@@ -236,7 +236,7 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
   <tr>
    <td style="text-align:left;"> W </td>
    <td style="text-align:left;"> 3/29 </td>
-   <td style="text-align:left;"> Fitting and interpreting models </td>
+   <td style="text-align:left;"> Iteration (cont.) </td>
    <td style="text-align:left;"> lab-09 </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
@@ -245,7 +245,7 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
   <tr>
    <td style="text-align:left;"> M </td>
    <td style="text-align:left;"> 4/3 </td>
-   <td style="text-align:left;"> Modeling nonlinear relationships </td>
+   <td style="text-align:left;"> The language of models </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
@@ -254,7 +254,7 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
   <tr>
    <td style="text-align:left;"> W </td>
    <td style="text-align:left;"> 4/5 </td>
-   <td style="text-align:left;"> Models with multiple predictors </td>
+   <td style="text-align:left;"> Fitting and interpreting models </td>
    <td style="text-align:left;"> lab-10 </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
@@ -263,7 +263,7 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
   <tr>
    <td style="text-align:left;"> M </td>
    <td style="text-align:left;"> 4/10 </td>
-   <td style="text-align:left;"> Models with multiple predictors (cont.) </td>
+   <td style="text-align:left;"> Modeling nonlinear relationships </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
@@ -272,7 +272,7 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
   <tr>
    <td style="text-align:left;"> W </td>
    <td style="text-align:left;"> 4/12 </td>
-   <td style="text-align:left;"> Modeling catch-up </td>
+   <td style="text-align:left;"> Models with multiple predictors </td>
    <td style="text-align:left;"> lab-11 </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
@@ -281,7 +281,7 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
   <tr>
    <td style="text-align:left;"> M </td>
    <td style="text-align:left;"> 4/17 </td>
-   <td style="text-align:left;"> Spatial data </td>
+   <td style="text-align:left;"> Models with multiple predictors (cont.) </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
@@ -290,7 +290,7 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
   <tr>
    <td style="text-align:left;"> W </td>
    <td style="text-align:left;"> 4/19 </td>
-   <td style="text-align:left;"> Spatial data (cont.) </td>
+   <td style="text-align:left;"> Modeling catch-up </td>
    <td style="text-align:left;"> lab-12 </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
@@ -308,7 +308,7 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
   <tr>
    <td style="text-align:left;"> M </td>
    <td style="text-align:left;"> 4/24 </td>
-   <td style="text-align:left;"> Peer review project-2 draft </td>
+   <td style="text-align:left;"> Spatial data </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
@@ -317,7 +317,7 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
   <tr>
    <td style="text-align:left;"> W </td>
    <td style="text-align:left;"> 4/26 </td>
-   <td style="text-align:left;"> challenge-2 solutions </td>
+   <td style="text-align:left;"> Spatial data (cont.) </td>
    <td style="text-align:left;"> lab-13 </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>

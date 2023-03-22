@@ -2,6 +2,9 @@
 ## TL;DR {-}
 For Project 1, pick an environmental dataset on a topic you already know something about, ask a question, and answer it using data. For Project 2, also do some stats!
 
+## Example project
+The CO~2~ case study is an example project to give you a sense of what constitutes a great final product. You can access the CO~2~ case study through [this github repo](https://github.com/ENST222/exercises/tree/main/lab-06-co2-case-study) or in the class R Studio Cloud workspace (lab-06-co2-case-study).
+
 ## What and why {-}
 The goal of the projects is to apply the techniques we have covered in class to a novel dataset in a meaningful way. The mid-semester project should emphasize data wrangling, tidying, and visualization, and the end of semester project should additionally incorporate statistical modeling (bonus "points" if you use spatial data as well). For both projects, you will analyze any environmental dataset you'd like, with the one requirement that it be related to a topic with which you are already familiar. Data analysis is usually most powerful if you have expertise in a relevant topic area and can, therefore, ask questions and draw conclusions that are well-grounded in that disciplinary domain. So this is a good opportunity to apply previous coursework or experiences in a new, perhaps more quantitative context. 
 
@@ -80,7 +83,11 @@ Same guidelines as the proposal.
 This section should include a description of the methods you used and why these methods were the right approach for answering your research question(s). Include any packages you used and provide a [citation for each package](https://www.r-bloggers.com/2018/08/how-to-cite-packages/). Start with a general overview of your approach, and then fill in the details. You don't necessarily need to describe every single function you used and line of code you wrote. Focus instead on the big picture: why and how you wrangled the data, created new variables, calculated data summaries, made comparisons, identified relationships and patterns, etc.  
     
 **Results and discussion (at least 3-4 paragraphs but more is ok)**  
-This section should present and discuss the results of your data analysis. Whereas a typical scientific paper generally includes separate results and discussion sections, here we will combine them to make the report more interesting and readable. You should organize this section around each of your key findings, presenting any evidence that supports your findings and explaining/interpreting/contextualizing the finding. You may find that it will be helpful to cite additional information sources to help contextualize your results, but it really depends on the dataset, so these additional citations are optional. This section needs to include narrative text as well as code output (i.e., figures, tables, etc.). Please also include a discussion of the limitations of your analysis, what you would do if you had more time, etc.
+This section should present and discuss the results of your data analysis with an emphasis on how each of your results helps you answer your research question(s). Whereas a typical scientific paper generally includes separate results and discussion sections, here we will combine them to make the report more interesting and readable. It needs to include narrative text as well as code output (i.e., figures, tables, etc.). 
+
+You should organize this section around each of your key findings. Be sure to explain what each visualization is illustrating and how the ways in which the data are presented help to address your question. Discuss why we might be seeing particular patterns, relationships, trends, differences, etc. This is where your domain knowledge comes in again - you need to have a good sense of the underlying phenomena that are represented by your data in order to develop well-founded explanations. You may find that it will be helpful to cite additional information sources to help contextualize your results, but it really depends on the dataset, so these additional citations are optional. Please also include a discussion of the limitations of your analysis, what you would do if you had more time, etc. 
+
+
 
 **References cited**  
 Same guidelines as the proposal.

@@ -19,20 +19,20 @@ F,3/10,,,,,[mid-semester learning reflection](https://enst222.github.io/website/
 S,3/12,,,,,project-01-draft for CBG review
 M,3/13,*No class - spring break*,,,,
 W,3/15,*No class - spring break*,,,,
-M,3/20,Introduction to iteration,,,,
-W,3/22,Iteration (cont.),lab-08,,,
-F,3/24,,,,,[project-1-final](https://enst222.github.io/website/projects.html)
-M,3/27,The language of models,,,,
-W,3/29,Fitting and interpreting models,lab-09,,,lab-08
-M,4/3,Modeling nonlinear relationships,,,,
-W,4/5,Models with multiple predictors,lab-10,,,[project-2-proposal](https://enst222.github.io/website/projects.html)
-M,4/10,Models with multiple predictors (cont.),,,,
-W,4/12,Modeling catch-up,lab-11,,,lab-10
-M,4/17,Spatial data,,,,
-W,4/19,Spatial data (cont.),lab-12,,,lab-11
+M,3/20,,,,,
+W,3/22,,lab-08: project group work,,,
+S,3/26,,,,,[project-1-final](https://enst222.github.io/website/projects.html)
+M,3/27,Introduction to iteration,,,,
+W,3/29,Iteration (cont.),lab-09,,,lab-08
+M,4/3,The language of models,,,,
+W,4/5,Fitting and interpreting models,lab-10,,,[project-2-proposal](https://enst222.github.io/website/projects.html)
+M,4/10,Modeling nonlinear relationships,,,,
+W,4/12,Models with multiple predictors,lab-11,,,lab-10
+M,4/17,Models with multiple predictors (cont.),,,,
+W,4/19,Modeling catch-up,lab-12,,,lab-11
 F,4/21,,,,,[challenge-2](https://enst222.github.io/website/challenges.html)
-M,4/24,Peer review project-2 draft,,,,[project-2-draft](https://enst222.github.io/website/projects.html)
-W,4/26,challenge-2 solutions,lab-13,,,lab-12
+M,4/24,Spatial data,,,,[project-2-draft](https://enst222.github.io/website/projects.html)
+W,4/26,Spatial data (cont.),lab-13,,,lab-12
 F,4/28,,,,,[final learning reflection](https://enst222.github.io/website/reflections.html#final-learning-reflection)
 F,5/5,,,,,[project-2- final](https://enst222.github.io/website/projects.html)
 M-F,May 1-5,*Individual meetings*,,,,
