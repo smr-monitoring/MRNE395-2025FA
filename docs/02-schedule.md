@@ -139,8 +139,8 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
    <td style="text-align:left;"> 3/1 </td>
    <td style="text-align:left;"> Functions (cont.) </td>
    <td style="text-align:left;"> lab-07 </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> ae-12 </td>
+   <td style="text-align:left;"> [R4DS 21](https://r4ds.had.co.nz/iteration.html) </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
@@ -227,9 +227,9 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
   <tr>
    <td style="text-align:left;"> M </td>
    <td style="text-align:left;"> 3/27 </td>
-   <td style="text-align:left;"> Introduction to iteration </td>
+   <td style="text-align:left;"> [Iteration](https://enst222.github.io/slides/17-iteration/17-iteration.html#1) </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> ae-13 </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
   </tr>

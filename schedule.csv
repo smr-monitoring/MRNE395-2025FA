@@ -12,7 +12,7 @@ W,2/15,[Importing](https://enst222.github.io/slides/12-data-import/12-data-impor
 M,2/20,[Effective data viz](https://enst222.github.io/slides/14-effective-dataviz/14-effective-dataviz.html#1),,ae-10,[ggplot2 book](https://ggplot2-book.org/); [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/),[project-1-proposal](https://enst222.github.io/website/projects.html)
 W,2/22,[Doing data science](https://enst222.github.io/slides/15-doing-data-science/15-doing-data-science.html#1),[lab-06](https://enst222.github.io/website/labs-1.html#lab-06),ae-10,[R4DS Ch 7](https://r4ds.had.co.nz/exploratory-data-analysis.html),[lab-05](https://enst222.github.io/website/labs-1.html#lab-05)
 M,2/27,[Functions](https://enst222.github.io/slides/16-functions/16-functions.html#1),,ae-11,[R4DS Ch 19](https://r4ds.had.co.nz/functions.html),
-W,3/1,Functions (cont.),lab-07,,,
+W,3/1,Functions (cont.),lab-07,ae-12,[R4DS 21](https://r4ds.had.co.nz/iteration.html),
 M,3/6,Peer review project-1 draft,,,,[project-1-draft](https://enst222.github.io/website/projects.html)
 W,3/8,*No class or lab; meet with group to work on project*,,,,
 F,3/10,,,,,[mid-semester learning reflection](https://enst222.github.io/website/reflections.html#mid-semester-learning-reflection)
@@ -22,7 +22,7 @@ W,3/15,*No class - spring break*,,,,
 M,3/20,,,,,
 W,3/22,,lab-08: project group work,,,
 S,3/26,,,,,[project-1-final](https://enst222.github.io/website/projects.html)
-M,3/27,Introduction to iteration,,,,
+M,3/27,[Iteration](https://enst222.github.io/slides/17-iteration/17-iteration.html#1),,ae-13,,
 W,3/29,Iteration (cont.),lab-09,,,lab-08
 M,4/3,The language of models,,,,
 W,4/5,Fitting and interpreting models,lab-10,,,[project-2-proposal](https://enst222.github.io/website/projects.html)
