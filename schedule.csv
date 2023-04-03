@@ -23,8 +23,8 @@ M,3/20,,,,,
 W,3/22,,lab-08: project group work,,,
 S,3/26,,,,,[project-1-final](https://enst222.github.io/website/projects.html)
 M,3/27,[Iteration](https://enst222.github.io/slides/17-iteration/17-iteration.html#1),,ae-13,,
-W,3/29,Iteration (cont.),lab-09,,,lab-08
-M,4/3,The language of models,,,,
+W,3/29,Iteration (cont.),lab-09,ae-14,,lab-08
+M,4/3,[The language of models](https://enst222.github.io/slides/18-language-of-models/18-language-of-models#1),,ae-15,[R4DS Ch 23](https://r4ds.had.co.nz/model-basics.html),
 W,4/5,Fitting and interpreting models,lab-10,,,[project-2-proposal](https://enst222.github.io/website/projects.html)
 M,4/10,Modeling nonlinear relationships,,,,
 W,4/12,Models with multiple predictors,lab-11,,,lab-10
