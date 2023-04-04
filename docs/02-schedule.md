@@ -138,7 +138,7 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
    <td style="text-align:left;"> W </td>
    <td style="text-align:left;"> 3/1 </td>
    <td style="text-align:left;"> Functions (cont.) </td>
-   <td style="text-align:left;"> lab-07 </td>
+   <td style="text-align:left;">  </td>
    <td style="text-align:left;"> ae-12 </td>
    <td style="text-align:left;"> [R4DS 21](https://r4ds.had.co.nz/iteration.html) </td>
    <td style="text-align:left;">  </td>
@@ -177,7 +177,7 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> project-01-draft for CBG review </td>
+   <td style="text-align:left;"> project-1-draft for CBG review </td>
   </tr>
   <tr>
    <td style="text-align:left;"> M </td>
@@ -210,7 +210,7 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
    <td style="text-align:left;"> W </td>
    <td style="text-align:left;"> 3/22 </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> lab-08: project group work </td>
+   <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
@@ -237,10 +237,10 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
    <td style="text-align:left;"> W </td>
    <td style="text-align:left;"> 3/29 </td>
    <td style="text-align:left;"> Iteration (cont.) </td>
-   <td style="text-align:left;"> lab-09 </td>
+   <td style="text-align:left;"> lab-07 </td>
    <td style="text-align:left;"> ae-14 </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> lab-08 </td>
+   <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> M </td>
@@ -254,11 +254,11 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
   <tr>
    <td style="text-align:left;"> W </td>
    <td style="text-align:left;"> 4/5 </td>
-   <td style="text-align:left;"> Fitting and interpreting models </td>
-   <td style="text-align:left;"> lab-10 </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> [project-2-proposal](https://enst222.github.io/website/projects.html) </td>
+   <td style="text-align:left;"> [Fitting and interpreting models](https://enst222.github.io/slides/19-fitting-interpreting-models/19-fitting-interpreting-models#1) </td>
+   <td style="text-align:left;"> lab-08 </td>
+   <td style="text-align:left;"> ae-16 </td>
+   <td style="text-align:left;"> [Open Intro Ch 7](https://openintro-ims.netlify.app/model-slr.html) </td>
+   <td style="text-align:left;"> lab-07 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> M </td>
@@ -266,17 +266,17 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
    <td style="text-align:left;"> Modeling nonlinear relationships </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> [Open Intro Ch 5.7](https://openintro-ims.netlify.app/explore-numerical.html?q=transformation#transforming-data) </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> W </td>
    <td style="text-align:left;"> 4/12 </td>
    <td style="text-align:left;"> Models with multiple predictors </td>
-   <td style="text-align:left;"> lab-11 </td>
+   <td style="text-align:left;"> lab-09 and project </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> lab-10 </td>
+   <td style="text-align:left;"> [Open Intro Ch 8](https://openintro-ims.netlify.app/model-mlr.html) </td>
+   <td style="text-align:left;"> lab-08 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> M </td>
@@ -285,16 +285,16 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> [project-2-proposal](https://enst222.github.io/website/projects.html) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> W </td>
    <td style="text-align:left;"> 4/19 </td>
    <td style="text-align:left;"> Modeling catch-up </td>
-   <td style="text-align:left;"> lab-12 </td>
+   <td style="text-align:left;"> project group work </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> lab-11 </td>
+   <td style="text-align:left;"> lab-09 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> F </td>
@@ -303,7 +303,7 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> [challenge-2](https://enst222.github.io/website/challenges.html) </td>
+   <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> M </td>
@@ -318,10 +318,10 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
    <td style="text-align:left;"> W </td>
    <td style="text-align:left;"> 4/26 </td>
    <td style="text-align:left;"> Spatial data (cont.) </td>
-   <td style="text-align:left;"> lab-13 </td>
+   <td style="text-align:left;"> project group work </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> lab-12 </td>
+   <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> F </td>
