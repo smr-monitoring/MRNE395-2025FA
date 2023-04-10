@@ -263,7 +263,7 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
   <tr>
    <td style="text-align:left;"> M </td>
    <td style="text-align:left;"> 4/10 </td>
-   <td style="text-align:left;"> Modeling nonlinear relationships </td>
+   <td style="text-align:left;"> [Model checking and nonlinearity](https://enst222.github.io/slides/20-modeling-nonlinear-relationships/20-modeling-nonlinear-relationships#1) </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> [Open Intro Ch 5.7](https://openintro-ims.netlify.app/explore-numerical.html?q=transformation#transforming-data) </td>
