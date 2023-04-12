@@ -265,16 +265,16 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
    <td style="text-align:left;"> 4/10 </td>
    <td style="text-align:left;"> [Model checking and nonlinearity](https://enst222.github.io/slides/20-modeling-nonlinear-relationships/20-modeling-nonlinear-relationships#1) </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> ae-17 </td>
    <td style="text-align:left;"> [Open Intro Ch 5.7](https://openintro-ims.netlify.app/explore-numerical.html?q=transformation#transforming-data) </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> W </td>
    <td style="text-align:left;"> 4/12 </td>
-   <td style="text-align:left;"> Models with multiple predictors </td>
+   <td style="text-align:left;"> [Models with multiple predictors](https://enst222.github.io/slides/21-model-multiple-predictors/21-model-multiple-predictors#1) </td>
    <td style="text-align:left;"> lab-09 and project </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> ae-17 </td>
    <td style="text-align:left;"> [Open Intro Ch 8](https://openintro-ims.netlify.app/model-mlr.html) </td>
    <td style="text-align:left;"> lab-08 </td>
   </tr>
@@ -283,7 +283,7 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
    <td style="text-align:left;"> 4/17 </td>
    <td style="text-align:left;"> Models with multiple predictors (cont.) </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> ae-18 </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> [project-2-proposal](https://enst222.github.io/website/projects.html) </td>
   </tr>
