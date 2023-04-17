@@ -28,7 +28,7 @@ M,4/3,[The language of models](https://enst222.github.io/slides/18-language-of-m
 W,4/5,[Fitting and interpreting models](https://enst222.github.io/slides/19-fitting-interpreting-models/19-fitting-interpreting-models#1),lab-08,ae-16,[Open Intro Ch 7](https://openintro-ims.netlify.app/model-slr.html),lab-07
 M,4/10,[Model checking and nonlinearity](https://enst222.github.io/slides/20-modeling-nonlinear-relationships/20-modeling-nonlinear-relationships#1),,ae-17,[Open Intro Ch 5.7](https://openintro-ims.netlify.app/explore-numerical.html?q=transformation#transforming-data),
 W,4/12,[Models with multiple predictors](https://enst222.github.io/slides/21-model-multiple-predictors/21-model-multiple-predictors#1),lab-09 and project,ae-17,[Open Intro Ch 8](https://openintro-ims.netlify.app/model-mlr.html),lab-08
-M,4/17,Models with multiple predictors (cont.),,ae-18,,[project-2-proposal](https://enst222.github.io/website/projects.html)
+M,4/17,[More models with multiple predictors](https://enst222.github.io/slides/22-more-model-multiple-predictors/22-more-model-multiple-predictors#1),,ae-18,,[project-2-proposal](https://enst222.github.io/website/projects.html)
 W,4/19,Modeling catch-up,project group work,,,lab-09
 F,4/21,,,,,
 M,4/24,Spatial data,,,,[project-2-draft](https://enst222.github.io/website/projects.html)

@@ -281,7 +281,7 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
   <tr>
    <td style="text-align:left;"> M </td>
    <td style="text-align:left;"> 4/17 </td>
-   <td style="text-align:left;"> Models with multiple predictors (cont.) </td>
+   <td style="text-align:left;"> [More models with multiple predictors](https://enst222.github.io/slides/22-more-model-multiple-predictors/22-more-model-multiple-predictors#1) </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> ae-18 </td>
    <td style="text-align:left;">  </td>
