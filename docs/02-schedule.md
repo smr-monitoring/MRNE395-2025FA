@@ -284,23 +284,14 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
    <td style="text-align:left;"> [More models with multiple predictors](https://enst222.github.io/slides/22-more-model-multiple-predictors/22-more-model-multiple-predictors#1) </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> ae-18 </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> [Open Intro Ch 8](https://openintro-ims.netlify.app/model-mlr.html) </td>
    <td style="text-align:left;"> [project-2-proposal](https://enst222.github.io/website/projects.html) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> W </td>
    <td style="text-align:left;"> 4/19 </td>
-   <td style="text-align:left;"> Modeling catch-up </td>
+   <td style="text-align:left;"> [Tying up loose ends](https://enst222.github.io/slides/23-tying-up-loose-ends/23-tying-up-loose-ends#1) </td>
    <td style="text-align:left;"> project group work </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> lab-09 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> F </td>
-   <td style="text-align:left;"> 4/21 </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
