@@ -303,7 +303,7 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> [project-2-draft](https://enst222.github.io/website/projects.html) </td>
+   <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:left;"> W </td>
