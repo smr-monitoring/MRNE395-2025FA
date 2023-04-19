@@ -321,7 +321,7 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> [final learning reflection](https://enst222.github.io/website/reflections.html#final-learning-reflection) </td>
+   <td style="text-align:left;"> [project-2-draft](https://enst222.github.io/website/projects.html) </td>
   </tr>
   <tr>
    <td style="text-align:left;"> F </td>
@@ -339,7 +339,7 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> [final learning reflection](https://enst222.github.io/website/reflections.html#final-learning-reflection) is due the night before your individual meeting </td>
   </tr>
 </tbody>
 </table>
