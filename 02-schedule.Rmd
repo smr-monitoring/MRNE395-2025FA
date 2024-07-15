@@ -7,7 +7,7 @@ The table below contains the `slides`, `lab` assignments, and application `exerc
 ```{r, echo = FALSE, message = FALSE, warning = FALSE}
 library(magrittr)
 options(knitr.kable.NA = '')
-knitr::kable(readr::read_csv("schedule.csv")) %>%
+knitr::kable(readxl::read_xlsx("schedule.xlsx")) %>%
   kableExtra::kable_styling(font_size = 12,
                             fixed_thead = T,
                             bootstrap_options = "hover")
