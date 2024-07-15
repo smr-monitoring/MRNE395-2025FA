@@ -10,7 +10,7 @@ documentclass: book
 description: |
   ENST 222 course website
 # link-citations: yes
-github-repo: ENST222/website
+github-repo: smr-monitoring/MRNE395-2024FA
 favicon: images/favicon/favicon.ico
 ---
 # Welcome {-}
