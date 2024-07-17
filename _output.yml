@@ -4,7 +4,7 @@ bookdown::gitbook:
     toc:
       collapse: section
       before: |
-        <li class="toc-logo"><a href="./"><img src="images/enst222_hex.png"></a></li>
+        <li class="toc-logo"><a href="./"><img src="images/coast_logo.png"></a></li>
       after: |
         <li><a href="https://github.com/ENST222" target="blank"><i class="fa fa-github"></i> Course source</a></li>
     sharing:
