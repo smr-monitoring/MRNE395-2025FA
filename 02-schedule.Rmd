@@ -1,14 +1,20 @@
 # Schedule {-}
 
-The table below contains the `slides`, `lab` assignments, and application `exercises` covered each day and when assignments are `due`. `resources` links to information sources that cover course topics in detail. You should always have these open as you work on assignments or exercises related to those particular topics. It wouldn't be a bad idea to have relevant `slides` open as well.
-
-`excercises` can be accessed directly through our Posit Cloud workspace. For each `lab`, data challenge, and course project, I will create a repository for each student or team. You'll clone your repo into your Posit Cloud workspace and complete the work from there.
-
+The table below is a comprehensive guide to the semester. The `topics and materials` column has links to learning objectives and a lesson plan and materials used in class each day. The `homework` column outlines the homework schedule. Assume we'll be outside for at least a portion of each class meeting unless I notify you otherwise.
 ```{r, echo = FALSE, message = FALSE, warning = FALSE}
-library(magrittr)
-options(knitr.kable.NA = '')
-knitr::kable(readxl::read_xlsx("schedule.xlsx")) %>%
+library(gt)
+library(tidyverse)
+library(readxl)
+library(kableExtra)
+options(knitr.kable.NA = '', table_css = FALSE)
+
+schedule <- read_xlsx("schedule.xlsx")
+
+schedule %>%
+  kable(padding = 0) %>%
+  collapse_rows() %>%
   kableExtra::kable_styling(font_size = 12,
                             fixed_thead = T,
-                            bootstrap_options = "hover")
+                            bootstrap_options = c("hover", "condensed"))
 ```
+

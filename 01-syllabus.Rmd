@@ -8,7 +8,7 @@
 **Website:** https://smr-monitoring.github.io/MRNE395-2024FA/
 
 ### Course description {-}
-Students will learn how to conduct ecological monitoring on the St. Mary’s River, a tidal tributary of Chesapeake Bay. We will use a variety of sampling methods to measure chemical concentrations, animal abundances, and metabolic rates in the estuarine environment. We'll also use quality assurance/quality control measures to clean the data we collect before publishing it to our publicly available data dashboard. This 2-credit course meets once per week and also requires students to work in groups outside of class meetings to collect and process samples. Students should be prepared to work outdoors in inclement weather.
+Students will learn how to conduct ecological monitoring on the St. Mary’s River, a tidal tributary of Chesapeake Bay. Our primary emphasis will be on water quality monitoring, but we will also dip our toes into some biological and hydrologic monitoring. We'll use quality assurance/quality control measures to ensure our data are up to standard before publishing it to our public-facing data dashboard. This 2-credit course meets once per week and occasionally requires students to work in groups outside of class meetings to collect and process samples. Students should be prepared to work outdoors in inclement weather.
 
 ### Course materials {-}
 All of the readings and software in this class are either free or will be provided by the instructor.
@@ -16,7 +16,7 @@ All of the readings and software in this class are either free or will be provid
 ### Working outside {-}
 This course involves a lot of outdoor work. Sometimes the weather will be beautiful, but more often it will be hot, sunny, buggy, cold, wet, windy, or a combination of these uncomfortable conditions. We will go out rain or shine unless the conditions are unsafe. It is important that you come to class prepared with whatever you need to keep yourself safe and comfortable outside. It's always a good idea to have a hat and sunscreen and a waterproof layer, even if rain is not in the forecast. For boat work, it is almost always much cooler on the water than land, especially in the spring, fall, and winter, so come prepared with multiple layers. Closed-toe shoes are required on the boat. Crocs or sneakers are fine in warm weather. Rubber boots are ideal in cooler weather but sneakers or anything with a grippy rubber sole are fine too. Do not wear flip-flops, heels, or nice shoes that can't get wet or that could scuff up the boat deck. 
 
-I recommend investing in good rain gear, including a jacket, bibs, and boots, especially if you plan to continue doing fieldwork on the water beyond this class. These items are very nice to have, even if it's not raining, because sampling can be wet and messy. [Grundens](https://grundens.com/) is a reputable marine work gear supplier and they have some affordable options. [Outdoor Research](https://www.outdoorresearch.com/) also sells high-quality gear and you can apply for a [student discount](https://www.outdoorresearch.com/pages/vip-program?gad_source=1&gclid=Cj0KCQjwkdO0BhDxARIsANkNcrfTTRmTvBF6i9f4siwcZSvr-3FYPgDXYPUw5zkBXpXfyFCTJc8cJKAaAtSCEALw_wcB). 
+I recommend investing in good rain gear especially if you plan to continue doing fieldwork on the water beyond this class. [Grundens](https://grundens.com/) is a reputable marine work gear supplier and they have some affordable options. [Outdoor Research](https://www.outdoorresearch.com/) also sells high-quality gear and you can apply for a [student discount](https://www.outdoorresearch.com/pages/vip-program?gad_source=1&gclid=Cj0KCQjwkdO0BhDxARIsANkNcrfTTRmTvBF6i9f4siwcZSvr-3FYPgDXYPUw5zkBXpXfyFCTJc8cJKAaAtSCEALw_wcB). 
 
 ### Learning outcomes {-}
 At the completion of this course, students will have an in-depth understanding of why and how we conduct ecological monitoring in coastal systems.
@@ -24,45 +24,51 @@ At the completion of this course, students will have an in-depth understanding o
 Specific outcomes include being able to:
 
 * describe the ecological and policy context of coastal monitoring
-* describe coastal monitoring methods and procedures
-* conduct coastal monitoring independently and with a team using correct and appropriate methods and procedures
+* explain coastal monitoring methods and procedures
+* conduct coastal monitoring independently and with a team using standard operating procedures
+* Manage and report coastal monitoring data
 
 ### Grading and assessment {-}
-This course uses a variation of "specifications grading," where we rely less on evaluating every assignment with a letter or number and instead focus on making sure we're generally making good progress in our learning. [Research has shown](https://www.alfiekohn.org/article/case-grades/) that grading doesn't improve learning and can sometimes even harm learning. Rather than submitting work "in exchange" for a letter or number grade, most assignments will be evaluated based on whether or not they meet the "specifications," or "specs" of that particular assignment. If the specs are not met, you'll often have the opportunity to revise your assignment until the specs are met so that you have more than one chance to demonstrate your learning. Your final grade will be based on the number of assignments for which you meet the specs and, therefore, demonstrate your mastery of the course topics. With this approach to evaluation, the goal is to emphasize truly becoming an expert in the course content. 
+This course uses a variation of "specifications grading," where we rely less on evaluating every assignment with a letter or number and instead focus on making sure we're generally making good progress in our learning. [Research has shown](https://www.alfiekohn.org/article/case-grades/) that grading doesn't improve learning and can sometimes even harm learning. Rather than submitting work "in exchange" for a letter or number grade, most assignments will be evaluated based on whether or not they meet the "specifications," or "specs" of that particular assignment.  The final exam serves as a way to show your cumulative mastery of the learning outcomes.     
 
-The following outlines how grades are earned:
+The following outlines the grading system:
 
-* **A:** Meet specs on at least xx quizzes/homeworks; earn at least 90% on final exam
-* **B:** Meet specs on at least xx quizzes/homeworks; earn at least 80% on final exam
-* **C:** Meet specs on at least xx quizzes/homeworks; earn at least 70% on final exam
-* **D:** Meet specs on at least xx quizzes/homeworks; earn at least 70% on final exam; 3 or more unexplained absences* 
-* **F:** Meet specs on less than xx quizzes/homeworks; earn less than a 70% on final exam; 3 or more unexplained absences*
+* **A:** Meet specs on at least 9 homeworks and earn at least 90% on the final exam
+* **B:** Meet specs on at least 8 homeworks and earn at least 80% on the final exam
+* **C:** Meet specs on at least 7 homeworks and earn at least 70% on the final exam
+* **D:** Meet specs on at least 6 homeworks and earn at least 60% on the final exam
+* **F:** Meet specs on less than 6 homeworks or earn below a 60% on the final exam or 3 or more absences 
 
-*Unexplained absence:* Missing class without notifying the professor (in other words, “ghosting” the class). As long as you let the instructor know you won’t be able to make it to class, an absence is considered “explained,” no doctor’s note or other official documentation needed. Please don’t come to class if you are sick! Just be sure to keep me in the loop via a quick email.
+**Attendance**
 
-On the flip side, please consider the consequences of missing class meetings – this is a very hands-on course where most of the learning takes place in person. It will be hard to learn and, therefore, pass the class if you’re not here to participate. This is why attendance is included in the specs for earning a D or F in the class: since we only meet once a week, missing 3 class sessions is equal to missing three weeks of class. If we are not in close communication about your absences, catching up on this much missed work will be difficult if not impossible. IMHO, this course is fun and interesting with many practical applications for your future career in marine science and adjacent fields, so hopefully this won’t be an issue because you’ll be excited to come to class!
+This is a very hands-on course where most of the learning takes place in person. It will be hard to learn and, therefore, pass the class if you’re not here to participate. This is why attendance is included in the specs for a final grade of F. Since we only meet once per week, missing 3 class sessions is equal to missing three weeks of class. Since most of the learning involves in-person, interactive activities, it will be difficult if not impossible to meet the course learning objectives if you miss this much class. If you have a documented emergency or health issue that will require an extended absence, talk to me and we can work together to develop a plan to help you move forward.  
 
-**Homework assignments and quizzes**
+**Homework assignments**
 
-Formative assessments will generally take the form of written and practical quizzes and homework assignments. They are designed to 1) help the instructor monitor how well you’re learning and 2) help you monitor your own learning and make adjustments to improve. These assignments can be revised during class based on discussion with your peers and instructor so that you can identify and correct any misconceptions your may have and consider how you might improve your study habits. Learning outcomes for each week will be provided and each quiz/homework assignment will clearly assess those outcomes. Since the final exam will be assessing the same learning outcomes, these assignments will also serve as great study material for the exams.
+Weekly assessments will take the form of written homework assignments. They are designed to help you understand and retain course content in greater depth that can be covered in class. We will go over the answers to each homework assignment in class on the day they are due, so late work will not be accepted. If you miss class on the day a homework assignment is due, it must be submitted by the next class meeting. Learning outcomes for each week will be provided and each homework assignment will assess those outcomes. Since the final exam will assess the same learning outcomes, these assignments will serve as great study material for the exam.
 
-Quizzes and homework assignments are evaluated on a “meets specs/does not meet specs” basis to avoid stressing over every point earned and lost. To meet specs on a quiz or homework assignment (unless otherwise noted), your work should be at least 50% correct before revision and at least 85% correct after revision with an honest reflection on any revisions made. Quizzes can be made up during the instructor’s office hours but revisions are not possible on make-up quizzes since they are based on in-class peer collaboration. Missed quizzes must be made up within two weeks of the day you missed the quiz.
+Homework assignments are evaluated on a “meets specs/does not meet specs.” The specs for each assignment will be clearly articulated in the assignment document. 
 
 **Final exam**
 
-Summative assessments evaluate your learning and proficiency at the end of the course. The summative assessment in this course will take the form of a cumulative exam that has both a written and practical component. The written portion will assess your understanding of the ecological and policy context of coastal monitoring and your grasp of proper monitoring methods. For the practical component, we’ll schedule individual meetings in which you demonstrate your ability to properly calibrate instruments, collect samples, etc. Standard operating procedures (SOPs) will be provided for the practical exam but tasks must be completed within the time provided. Students can use one page of hand-written notes for the written exam portion. The final exam cannot be revised but the course structure and policies are intentionally designed to help you learn a lot (and therefore do well on the exams) as long as you show up and do the work! If you need to miss the final exam, please contact the instructor to reschedule it.
+Summative assessments evaluate your learning and proficiency at the end of the course. The summative assessment in this course will take the form of an exam that has both a written and practical component. The written portion will assess your understanding of the ecological and policy context of coastal monitoring and your grasp of monitoring standard operating procedures. For the practical component, we’ll schedule individual meetings in which you demonstrate your ability to properly calibrate instruments, collect samples, etc. Standard operating procedures (SOPs) will be provided for the practical exam. Students can use one page of hand-written notes for the written exam portion. 
 
 **Extra credit**
 
-The specs grading system is designed to reduce anxiety over grades, but I recognize that you still may experience some stress over the exam and quizzes, especially if your exam grade is just below the benchmark for a particular course grade or you did not meet specs on one too many quizzes to earn the grade you want. I will offer multiple opportunities that will enable you to earn up to three extra credit points, which you can add to your final exam grade or use as a "free pass" to automatically meet specs on a quiz. So if, for example, you earn a 78% on the exam, your three extra credit points can increase the grade to an 81% and you can, therefore earn a B in the class. Or if you only meet the specs on xx quizzes but you needed to pass xx to earn a B, you can use one of your extra credit points to automatically pass your missing quiz. Several extra credit opportunities are already listed on the class website and more will be added and announced throughout the semester.
+The specs grading system is designed to reduce anxiety over grades, but I recognize that you still may experience some stress if you miss one too many homeworks or if your exam grade is just beyond the benchmark for grade you want to earn. I will offer multiple opportunities that will enable you to earn one extra credit, which you can use to add two points to your final exam grade or use as a "free pass" to automatically meet specs on one homework assignment or add a plus to your final grade. So if, for example, you earn a 78% on the exam, your extra credit can be used to increase the grade to an 80% and you can, therefore earn a B in the class. Or if you only meet the specs on 8 quizzes but you needed to pass 9 to earn an A, you can use one of your extra credit points to automatically pass your missing homework. Or if you meet the specs to earn a B, you can use your extra credit to earn a B+. I will notify you of extra credit opportunities as soon as they arise.
 
 ### More policies {-}
 
-**Attendance and late work**
+**Missing class**
 
-If you need to miss class, first make sure to communicate this with me. Then check the class [schedule](https://enst222.github.io/website/schedule.html) to see what you missed, review relevant slides and readings, and complete missed assignments on your own. If you missed a quiz, contact me to reschedule it. Missed quizzes must be made up within 2 weeks. 
+If you need to miss class, first make sure to communicate this with me. Then check the class [schedule](https://smr-monitoring.github.io/MRNE395-2024FA/schedule.html) to see what you missed, review relevant slides and readings, and complete missed assignments on your own. 
 
-I am similarly flexible about late work. If you need an extra day or two to complete an assignment, just ask - it's usually not a problem. However, you should think about the purpose of a particular due date and how a late submission will affect your learning. In the case of projects, a late submission might mean you will miss the opportunity to get feedback on your work. For assignments and data challenges, you might miss the chance to work collaboratively with your peers to solve stubborn data or coding challenges. You should take these learning opportunities into consideration before requesting an extension.
+
+**Use of AI**
+
+The use of generative AI in homework assignments is not allowed. The homeworks are designed to help you think and process information and, therefore, learn. If you use AI for this work, you won't be learning! Also AI still tends to generate words that sound good but don't actually say anything of substance (see [this scholarly article](https://link.springer.com/article/10.1007/s10676-024-09775-5) for details). If I suspect that you have used AI to create your assignments, you can expect to have a conversation with me!
+
+You might consider using AI to help you develop study guides. However, again, the process of creating your own study guide [has been shown](https://www.tandfonline.com/doi/abs/10.1080/87567555.2018.1514485) to help students study and learn more efficiently, so consider the benefit of developing your own guide.
 
 **Engaged learning**
 
