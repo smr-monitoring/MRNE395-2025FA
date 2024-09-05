@@ -1,7 +1,8 @@
 # SOPs {-}
 The following link to standard operating procedures (SOPs) for all of our monitoring methods. 
 
-* [Chlorophyll *a*](https://smr-monitoring.github.io/sop/chl-a.html)
+* [Chlorophyll *a* extraction](https://smr-monitoring.github.io/sop/chl-a.html)
+* [Chlorophyll *a* filtering](https://smr-monitoring.github.io/sop/chl-filtering.html)
 * [Conductivity logger - HOBO U24](https://smr-monitoring.github.io/sop/conductivity-logger-hobo.html)
 * [DO logger - HOBO U26](https://smr-monitoring.github.io/sop/do-logger-hobo.html)
 * [DO logger - PME MiniDOT](https://smr-monitoring.github.io/sop/do-logger-pme.html)
