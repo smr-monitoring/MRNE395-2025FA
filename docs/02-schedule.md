@@ -20,7 +20,7 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   <tr>
    <td style="text-align:right;"> 2 </td>
    <td style="text-align:left;"> F 9/6 </td>
-   <td style="text-align:left;"> Water quality parameters and filtering </td>
+   <td style="text-align:left;"> [Water quality criteria and filtering](https://smr-monitoring.github.io/lesson-plans/02-wq-criteria.html) </td>
    <td style="text-align:left;"> HW1 </td>
   </tr>
   <tr>
