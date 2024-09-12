@@ -25,26 +25,26 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   </tr>
   <tr>
    <td style="text-align:right;"> 3 </td>
-   <td style="text-align:left;"> F9/13 </td>
-   <td style="text-align:left;"> Data management and NPP </td>
+   <td style="text-align:left;"> F 9/13 </td>
+   <td style="text-align:left;"> [NPP](https://smr-monitoring.github.io/lesson-plans/03-npp.html) </td>
    <td style="text-align:left;"> HW2 </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 4 </td>
    <td style="text-align:left;"> F 9/20 </td>
-   <td style="text-align:left;"> Continuous monitoring </td>
+   <td style="text-align:left;"> NPP calculations and calibration </td>
    <td style="text-align:left;"> HW3 </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 5 </td>
    <td style="text-align:left;"> F 9/27 </td>
-   <td style="text-align:left;"> Monitoring measurements </td>
+   <td style="text-align:left;"> Continuous monitoring - deploy </td>
    <td style="text-align:left;"> HW4 </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 6 </td>
    <td style="text-align:left;"> F 10/4 </td>
-   <td style="text-align:left;"> Monitoring measurements </td>
+   <td style="text-align:left;"> Continuous monitoring - retrieve </td>
    <td style="text-align:left;"> HW5 </td>
   </tr>
   <tr>
@@ -86,7 +86,7 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   <tr>
    <td style="text-align:right;"> 13 </td>
    <td style="text-align:left;"> F 11/22 </td>
-   <td style="text-align:left;"> DIY monitoring technology </td>
+   <td style="text-align:left;"> Monitoring measurements </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
