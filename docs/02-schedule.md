@@ -45,14 +45,14 @@ The table below is a comprehensive guide to the semester. The `topics and materi
    <td style="text-align:left;"> F 9/27 </td>
    <td style="text-align:left;"> [Continuous monitoring - deploy](https://smr-monitoring.github.io/lesson-plans/05-conmon-deploy.html) </td>
    <td style="text-align:left;"> HW4: tie a bowline, lobster buoy hitch, and half hitch </td>
-   <td style="text-align:left;"> bring your line to class </td>
+   <td style="text-align:left;"> bring your line to class; be prepared to go outside </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 6 </td>
    <td style="text-align:left;"> F 10/4 </td>
    <td style="text-align:left;"> [Continuous monitoring - retrieve](https://smr-monitoring.github.io/lesson-plans/06-conmon-retrieve.html) </td>
-   <td style="text-align:left;"> HW5: check on your sensors </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> HW5: [Monitoring station site check]() </td>
+   <td style="text-align:left;"> be prepared to go outside </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 7 </td>
