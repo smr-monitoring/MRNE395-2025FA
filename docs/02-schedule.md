@@ -51,7 +51,7 @@ The table below is a comprehensive guide to the semester. The `topics and materi
    <td style="text-align:right;"> 6 </td>
    <td style="text-align:left;"> F 10/4 </td>
    <td style="text-align:left;"> [Continuous monitoring - retrieve](https://smr-monitoring.github.io/lesson-plans/06-conmon-retrieve.html) </td>
-   <td style="text-align:left;"> HW5: [Monitoring station site check]() </td>
+   <td style="text-align:left;"> HW5: [Monitoring station site check](https://docs.google.com/spreadsheets/d/1J3YEvWHqeVdu75PupAPLOFJHA1BwFn_1tIiBC8eVfvY/edit?gid=0#gid=0) </td>
    <td style="text-align:left;"> be prepared to go outside </td>
   </tr>
   <tr>
