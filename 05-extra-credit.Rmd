@@ -1,0 +1,14 @@
+# Extra credit {-}
+
+The following are extra credit opportunities that you can use for this class. For unstructured activities, you need to spend at least 1 hour on the activity. When you have completed the extra credit activity, you'll write a half-page (single-spaced) reflection describing what you did and drawing linkages between the activity and the course. Be as detailed and descriptive as possible. You should print out the reflection and submit it in class or you can put it in the mailbox next to my office door (Kent 308). Reflections need to be submitted within 1 week of completing the activity.
+
+```{r, echo = FALSE, message = FALSE, warning = FALSE}
+library(magrittr)
+library(kableExtra)
+options(knitr.kable.NA = '')
+options(kableExtra.html.bsTable = T)
+kable(readxl::read_xlsx("/Users/cbgurbisz/Documents/Teaching/ENST 392/website/extra-credit.xlsx")) %>%
+  kable_styling(font_size = 12,
+                            fixed_thead = T,
+                            bootstrap_options = "hover")
+```

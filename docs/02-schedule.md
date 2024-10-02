@@ -58,8 +58,8 @@ The table below is a comprehensive guide to the semester. The `topics and materi
    <td style="text-align:right;"> 7 </td>
    <td style="text-align:left;"> F 10/11 </td>
    <td style="text-align:left;"> Monitoring measurements </td>
-   <td style="text-align:left;"> HW6 </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> HW6: tie a clove hitch and cleat hitch </td>
+   <td style="text-align:left;"> bring your line to class; be prepared to go outside </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 8 </td>
