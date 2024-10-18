@@ -77,6 +77,13 @@ The following are extra credit opportunities that you can use for this class. Fo
    <td style="text-align:left;"> Natural Science and Math Colloquium speaker Anahi Espindola on ecological interactions </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> 10/23-10/24 </td>
+   <td style="text-align:left;"> all day and night </td>
+   <td style="text-align:left;"> Chesapeake Biological Laboratory pier </td>
+   <td style="text-align:left;"> email Nina Santos (nsantos@umces.edu) </td>
+   <td style="text-align:left;"> Mysid fest! Volunteer for a few hours to help the Woodland lab at CBL conduct mysid sampling at the CBL pier on Solomons Island </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> 10/29 </td>
    <td style="text-align:left;"> 7:00-8:00 pm </td>
    <td style="text-align:left;"> Chesapeake Biological Laboratory Bernie Fowler Laboratory </td>

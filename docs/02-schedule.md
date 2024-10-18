@@ -57,22 +57,22 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   <tr>
    <td style="text-align:right;"> 7 </td>
    <td style="text-align:left;"> F 10/11 </td>
-   <td style="text-align:left;"> Monitoring measurements </td>
+   <td style="text-align:left;"> No class - CBG fieldwork </td>
    <td style="text-align:left;"> HW6: tie a clove hitch and cleat hitch </td>
    <td style="text-align:left;"> bring your line to class; be prepared to go outside </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 8 </td>
    <td style="text-align:left;"> F 10/18 </td>
-   <td style="text-align:left;"> SAV sample processing </td>
-   <td style="text-align:left;"> HW7 </td>
+   <td style="text-align:left;"> [SAV monitoring and sample processing](https://smr-monitoring.github.io/lesson-plans/07-sav-monitoring.html) </td>
+   <td style="text-align:left;"> HW7:  tie a clove hitch </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 9 </td>
    <td style="text-align:left;"> F 10/25 </td>
-   <td style="text-align:left;"> Hydrologic monitoring </td>
-   <td style="text-align:left;"> HW8 </td>
+   <td style="text-align:left;"> Monitoring measurements </td>
+   <td style="text-align:left;"> HW8: tie a cleat hitch </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
