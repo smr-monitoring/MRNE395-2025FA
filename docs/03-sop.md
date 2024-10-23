@@ -20,3 +20,4 @@ The following link to standard operating procedures (SOPs) for all of our monito
 * [Water level logger - HOBO](https://smr-monitoring.github.io/sop/water-level-logger-hobo.html)
 * [PAR logger - PME MiniPAR](https://smr-monitoring.github.io/sop/par-logger-pme.html)
 * [pH logger - HOBO MX2501](https://smr-monitoring.github.io/sop/ph-logger-hobo.html)
+* [Stick current meters](https://smr-monitoring.github.io/sop/stick-current-meter.html)
