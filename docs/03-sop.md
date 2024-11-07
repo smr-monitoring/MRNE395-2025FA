@@ -14,7 +14,6 @@ The following link to standard operating procedures (SOPs) for all of our monito
 ### Data loggers {-}
 
 * [Conductivity logger - HOBO U24](https://smr-monitoring.github.io/sop/conductivity-logger-hobo.html)
-* [DO logger - HOBO U26](https://smr-monitoring.github.io/sop/do-logger-hobo.html)
 * [DO logger - PME MiniDOT](https://smr-monitoring.github.io/sop/do-logger-pme.html)
 * [Light-temperature logger - HOBO MX2202](https://smr-monitoring.github.io/sop/light-temp-logger-hobo.html)
 * [Water level logger - HOBO](https://smr-monitoring.github.io/sop/water-level-logger-hobo.html)
