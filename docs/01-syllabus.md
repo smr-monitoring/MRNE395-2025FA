@@ -33,11 +33,11 @@ This course uses a variation of "specifications grading," where we rely less on 
 
 The following outlines the grading system:
 
-* **A:** Meet specs on at least 9 homeworks and earn at least 90% on the final exam
-* **B:** Meet specs on at least 8 homeworks and earn at least 80% on the final exam
-* **C:** Meet specs on at least 7 homeworks and earn at least 70% on the final exam
-* **D:** Meet specs on at least 6 homeworks and earn at least 60% on the final exam
-* **F:** Meet specs on less than 6 homeworks or earn below a 60% on the final exam or 3 or more absences 
+* **A:** Complete at least 6/7 homeworks and earn at least 90% on the final exam
+* **B:** Complete at least 5/7 homeworks and earn at least 80% on the final exam
+* **C:** Complete at least 4/7 homeworks and earn at least 70% on the final exam
+* **D:** Complete at least 3/7 homeworks and earn at least 60% on the final exam
+* **F:** Complete less than 3/7 homeworks or earn below a 60% on the final exam or 3 or more absences 
 
 **Attendance**
 

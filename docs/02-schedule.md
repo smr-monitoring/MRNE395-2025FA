@@ -78,30 +78,30 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   <tr>
    <td style="text-align:right;"> 10 </td>
    <td style="text-align:left;"> F 11/1 </td>
-   <td style="text-align:left;"> Monitoring measurements </td>
-   <td style="text-align:left;"> HW8 </td>
+   <td style="text-align:left;"> No class - CBG out sick </td>
+   <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 11 </td>
    <td style="text-align:left;"> F 11/8 </td>
-   <td style="text-align:left;"> Skills review </td>
-   <td style="text-align:left;"> HW9 </td>
+   <td style="text-align:left;"> USGS station field trip </td>
+   <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 12 </td>
    <td style="text-align:left;"> F 11/15 </td>
-   <td style="text-align:left;"> Skills assessment </td>
-   <td style="text-align:left;"> HW10 </td>
+   <td style="text-align:left;"> [Skills review](https://smr-monitoring.github.io/lesson-plans/08-skills-review.html) </td>
+   <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 13 </td>
    <td style="text-align:left;"> F 11/22 </td>
-   <td style="text-align:left;"> Monitoring measurements </td>
+   <td style="text-align:left;"> [Skills assessment](https://smr-monitoring.github.io/lesson-plans/09-skills-assessment.html) </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> [Sign up for a skills assessment appointment here](https://docs.google.com/spreadsheets/d/1hLHxzoFL6l4t2Bhw_rAb9f7xipIo0W3GSJmhjz17Hp8/edit?usp=sharing) </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 14 </td>
