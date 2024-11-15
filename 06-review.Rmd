@@ -1,4 +1,4 @@
-# Skills checklist
+# Skills checklist {-}
 
 ```{r, echo = FALSE, message = FALSE, warning = FALSE}
 library(gt)
