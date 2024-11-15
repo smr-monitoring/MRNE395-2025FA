@@ -1,0 +1,19 @@
+# Skills checklist
+
+```{r, echo = FALSE, message = FALSE, warning = FALSE}
+library(gt)
+library(tidyverse)
+library(readxl)
+library(kableExtra)
+options(knitr.kable.NA = '', table_css = FALSE)
+
+schedule <- read_xlsx("skills-checklist.xlsx")
+
+schedule %>%
+  kable(padding = 0) %>%
+  collapse_rows() %>%
+  kableExtra::kable_styling(font_size = 12,
+                            fixed_thead = T,
+                            bootstrap_options = c("hover", "condensed"))
+```
+
