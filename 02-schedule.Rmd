@@ -1,4 +1,4 @@
-# Schedule {-}
+# Schedule {-} 
 
 The table below is a comprehensive guide to the semester. The `topics and materials` column has links to learning objectives and a lesson plan and materials used in class each day. The `homework` column outlines the homework schedule. Assume we'll be outside for at least a portion of each class meeting unless I notify you otherwise.
 ```{r, echo = FALSE, message = FALSE, warning = FALSE}
