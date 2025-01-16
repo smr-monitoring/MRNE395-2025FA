@@ -23,14 +23,14 @@ The table below is a comprehensive guide to the semester. The `topics and materi
    <td style="text-align:right;"> 2 </td>
    <td style="text-align:left;"> Th 1/23 </td>
    <td style="text-align:left;"> [Water quality criteria](https://smr-monitoring.github.io/lesson-plans/02-wq-criteria.html) </td>
-   <td style="text-align:left;"> HW1 worksheet </td>
+   <td style="text-align:left;"> HW1 in GC </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 3 </td>
    <td style="text-align:left;"> Th 1/30 </td>
    <td style="text-align:left;"> Intro to EXOs </td>
-   <td style="text-align:left;"> HW2 worksheet </td>
+   <td style="text-align:left;"> HW2 in GC </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
