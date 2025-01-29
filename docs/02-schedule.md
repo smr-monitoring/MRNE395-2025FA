@@ -1,4 +1,4 @@
-# Schedule {-} 
+# Schedule {-}
 
 The table below is a comprehensive guide to the semester. The `topics and materials` column has links to learning objectives and a lesson plan and materials used in class each day. The `homework` column outlines the homework schedule. Assume we'll be outside for at least a portion of each class meeting unless I notify you otherwise.
 <table class="table table-hover table-condensed" style="font-size: 12px; margin-left: auto; margin-right: auto;">
@@ -29,23 +29,23 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   <tr>
    <td style="text-align:right;"> 3 </td>
    <td style="text-align:left;"> Th 1/30 </td>
-   <td style="text-align:left;"> Intro to EXOs </td>
+   <td style="text-align:left;"> [Calibration](https://smr-monitoring.github.io/lesson-plans/03-calibration.html) </td>
    <td style="text-align:left;"> HW2 in GC </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 4 </td>
    <td style="text-align:left;"> Th 2/6 </td>
-   <td style="text-align:left;"> [Calibration](https://smr-monitoring.github.io/lesson-plans/04-calibration.html) </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> HW3: tie a bowline, lobster buoy hitch, and half hitch </td>
+   <td style="text-align:left;"> bring your line to class </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 5 </td>
    <td style="text-align:left;"> Th 2/13 </td>
    <td style="text-align:left;"> Continuous monitoring </td>
-   <td style="text-align:left;"> HW4: tie a bowline, lobster buoy hitch, and half hitch </td>
-   <td style="text-align:left;"> bring your line to class </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 6 </td>
