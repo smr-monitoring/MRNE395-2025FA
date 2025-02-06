@@ -36,7 +36,7 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   <tr>
    <td style="text-align:right;"> 4 </td>
    <td style="text-align:left;"> Th 2/6 </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> [YSI setup](https://smr-monitoring.github.io/lesson-plans/04-ysi-setup.html) </td>
    <td style="text-align:left;"> HW3: tie a bowline, lobster buoy hitch, and half hitch </td>
    <td style="text-align:left;"> bring your line to class </td>
   </tr>
@@ -44,8 +44,8 @@ The table below is a comprehensive guide to the semester. The `topics and materi
    <td style="text-align:right;"> 5 </td>
    <td style="text-align:left;"> Th 2/13 </td>
    <td style="text-align:left;"> Continuous monitoring </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> HW4: tie a clove hitch, bowline, lobster buoy hitch, and half hitch </td>
+   <td style="text-align:left;"> bring your line to class </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 6 </td>
@@ -65,15 +65,15 @@ The table below is a comprehensive guide to the semester. The `topics and materi
    <td style="text-align:right;"> 8 </td>
    <td style="text-align:left;"> Th 3/6 </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> HW6: tie a clove hitch </td>
-   <td style="text-align:left;"> bring your line to class </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 9 </td>
    <td style="text-align:left;"> Th 3/13 </td>
    <td style="text-align:left;"> No class - spring break </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> bring your line to class </td>
+   <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 10 </td>
@@ -86,7 +86,7 @@ The table below is a comprehensive guide to the semester. The `topics and materi
    <td style="text-align:right;"> 11 </td>
    <td style="text-align:left;"> Th 3/27 </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> HW7: tie a clove hitch and cleat hitch </td>
+   <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
