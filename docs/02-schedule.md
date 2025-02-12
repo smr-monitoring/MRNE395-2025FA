@@ -43,7 +43,7 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   <tr>
    <td style="text-align:right;"> 5 </td>
    <td style="text-align:left;"> Th 2/13 </td>
-   <td style="text-align:left;"> Continuous monitoring </td>
+   <td style="text-align:left;"> [Continuous monitoring - practice deployment](https://smr-monitoring.github.io/lesson-plans/05-conmon.html) </td>
    <td style="text-align:left;"> HW4: tie a clove hitch, bowline, lobster buoy hitch, and half hitch </td>
    <td style="text-align:left;"> bring your line to class </td>
   </tr>
