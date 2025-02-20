@@ -50,23 +50,23 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   <tr>
    <td style="text-align:right;"> 6 </td>
    <td style="text-align:left;"> Th 2/20 </td>
-   <td style="text-align:left;"> Continuous monitoring </td>
+   <td style="text-align:left;"> [Continuous monitoring - data corrections](https://smr-monitoring.github.io/lesson-plans/06-conmon-drift-corrections.html) </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 7 </td>
    <td style="text-align:left;"> Th 2/27 </td>
+   <td style="text-align:left;"> CONMON deploy </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> be prepared to go outside </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 8 </td>
    <td style="text-align:left;"> Th 3/6 </td>
+   <td style="text-align:left;"> CONMON retrieve </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> be prepared to go outside </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 9 </td>
