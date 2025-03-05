@@ -64,7 +64,7 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   <tr>
    <td style="text-align:right;"> 8 </td>
    <td style="text-align:left;"> Th 3/6 </td>
-   <td style="text-align:left;"> CONMON retrieve </td>
+   <td style="text-align:left;"> [CONMON retrieve](https://smr-monitoring.github.io/lesson-plans/08-conmon-retrieve.html) </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> be prepared to go outside </td>
   </tr>
