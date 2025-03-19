@@ -78,15 +78,15 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   <tr>
    <td style="text-align:right;"> 10 </td>
    <td style="text-align:left;"> Th 3/20 </td>
+   <td style="text-align:left;"> [Discrete monitoring](https://smr-monitoring.github.io/lesson-plans/09-discrete-monitoring.html) </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> be prepared to go outside </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 11 </td>
    <td style="text-align:left;"> Th 3/27 </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> HW5: tie a cleat hitch and clove hitch </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
