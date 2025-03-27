@@ -85,7 +85,7 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   <tr>
    <td style="text-align:right;"> 11 </td>
    <td style="text-align:left;"> Th 3/27 </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> [Discrete monitoring by boat](https://smr-monitoring.github.io/lesson-plans/10-discrete-boat.html) </td>
    <td style="text-align:left;"> HW5: tie a cleat hitch and clove hitch </td>
    <td style="text-align:left;">  </td>
   </tr>
