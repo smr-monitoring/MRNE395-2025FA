@@ -99,16 +99,16 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   <tr>
    <td style="text-align:right;"> 13 </td>
    <td style="text-align:left;"> Th 4/10 </td>
-   <td style="text-align:left;"> Practical assessment practice </td>
+   <td style="text-align:left;"> [Skills review](https://smr-monitoring.github.io/lesson-plans/11-skills-review.html) </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> be prepared to go outside </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 14 </td>
    <td style="text-align:left;"> Th 4/17 </td>
-   <td style="text-align:left;"> Practical assessment </td>
+   <td style="text-align:left;"> [Skills assessment](https://smr-monitoring.github.io/lesson-plans/12-skills-assessment.html) </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> be prepared to go outside </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 15 </td>
