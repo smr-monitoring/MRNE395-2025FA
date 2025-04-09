@@ -99,14 +99,14 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   <tr>
    <td style="text-align:right;"> 13 </td>
    <td style="text-align:left;"> Th 4/10 </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Practical assessment practice </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 14 </td>
    <td style="text-align:left;"> Th 4/17 </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Practical assessment </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
   </tr>
