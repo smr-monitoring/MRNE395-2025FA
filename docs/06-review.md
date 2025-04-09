@@ -11,7 +11,7 @@
 <tbody>
   <tr>
    <td style="text-align:left;"> **YSI calibration** </td>
-   <td style="text-align:left;"> followed SOP to calibrate DO, conductivity, and pH </td>
+   <td style="text-align:left;"> followed SOP to calibrate DO, conductivity, and pH (2-point calibration) </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
@@ -35,8 +35,8 @@
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> **Filtering for TSS and chl a** </td>
-   <td style="text-align:left;"> Followed SOP to filter water samples for TSS and chl a </td>
+   <td style="text-align:left;"> **Filtering for TSS** </td>
+   <td style="text-align:left;"> Followed SOP to filter water samples for TSS </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
@@ -66,7 +66,7 @@
   </tr>
   <tr>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> Labeled foil with date, location, filter number, and volume filtered </td>
+   <td style="text-align:left;"> Labeled foil with name, date, location, filter number, and volume filtered </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
@@ -91,7 +91,7 @@
   </tr>
   <tr>
    <td style="text-align:left;"> **Properly secure boat** </td>
-   <td style="text-align:left;"> Properly secured boat to dock using a cleat hitch </td>
+   <td style="text-align:left;"> Properly secured boat to dock using a cleat hitch and clove hitch+half hitch </td>
    <td style="text-align:left;">  </td>
   </tr>
 </tbody>
