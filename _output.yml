@@ -6,7 +6,7 @@ bookdown::gitbook:
       before: |
         <li class="toc-logo"><a href="./"><img src="images/coast_logo.png"></a></li>
       after: |
-        <li><a href="https://github.com/smr-monitoring/MRNE395-2024FA" target="blank"><i class="fa fa-github"></i> Course source</a></li>
+        <li><a href="https://github.com/smr-monitoring/MRNE395-2025FA" target="blank"><i class="fa fa-github"></i> Course source</a></li>
     sharing:
       github: no
       facebook: no

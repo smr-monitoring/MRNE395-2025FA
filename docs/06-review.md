@@ -3,9 +3,9 @@
 <table class="table table-hover table-condensed" style="font-size: 12px; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
-   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> task (10 points each) </th>
-   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> item </th>
-   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> completed correctly? </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> category </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> skill </th>
+   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> comments </th>
   </tr>
  </thead>
 <tbody>

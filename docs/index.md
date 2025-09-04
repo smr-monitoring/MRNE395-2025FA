@@ -10,12 +10,12 @@ documentclass: book
 description: |
   Coastal Monitoring course website
 # link-citations: yes
-github-repo: smr-monitoring/MRNE395-2024FA
+github-repo: smr-monitoring/MRNE395-2025FA
 favicon: images/favicon/favicon.ico
 ---
 # Welcome {-}
 
-This is the homepage for ENST/MRNE 395 Coastal Monitoring taught by Dr. Cassie Gurbisz in Spring 2025 at St. Mary's College of Maryland. All course materials will be posted on this site, accessible through the [Schedule](https://smr-monitoring.github.io/MRNE395-2024FA/schedule.html) page and the navigation bar on the left.
+This is the homepage for ENST/MRNE 395 Coastal Monitoring taught by Dr. Cassie Gurbisz in Fall 2025 at St. Mary's College of Maryland. All course materials will be posted on this site, accessible through the [Schedule](https://smr-monitoring.github.io/MRNE395-2024FA/schedule.html) page and the navigation bar on the left.
 
 This website was built with the [bookdown](https://bookdown.org/yihui/bookdown) R package with help from [rstudio4edu](https://rstudio4edu.github.io/rstudio4edu-book/). 
 
