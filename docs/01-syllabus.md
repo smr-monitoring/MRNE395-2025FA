@@ -1,11 +1,11 @@
 # Syllabus {-}
 
-**Course:** ENST/MRNE 395 Coastal Monitoring Fall 2024  
-**Class time and location:** Thursdays 12:20 - 3:30 Schaefer Hall 108  
+**Course:** ENST/MRNE 395 Coastal Monitoring Fall 2025  
+**Class time and location:** Fridays 8:30 - 11:20 Schaefer Hall 112  
 **Instructor:** Dr. Cassie Gurbisz  (you're welcome to call me Cassie)  
 **Email:** cbgurbisz@smcm.edu  
-**Office hours:** Tuesdays 11:30-1:30 Kent Hall 308  
-**Website:** https://smr-monitoring.github.io/MRNE395-2025SP/
+**Office hours:** Wednesdays 1:00-3:00 Kent Hall 308  
+**Website:** https://smr-monitoring.github.io/MRNE395-2025FA/
 
 ### Course description {-}
 Students will learn how to conduct ecological monitoring on the St. Mary’s River, a tidal tributary of Chesapeake Bay. Our primary emphasis will be on water quality monitoring, but we will also dip our toes into some biological and hydrologic monitoring. We'll use quality assurance/quality control measures to ensure our data are up to standard before publishing it to our public-facing data dashboard. This 2-credit course meets once per week and occasionally requires students to work in groups outside of class meetings to collect and process samples. Students should be prepared to work outdoors in inclement weather.
@@ -14,9 +14,7 @@ Students will learn how to conduct ecological monitoring on the St. Mary’s Riv
 All of the readings and software in this class are either free or will be provided by the instructor.
 
 ### Working outside {-}
-This course involves outdoor work. Sometimes the weather will be beautiful, but more often it will be hot, sunny, buggy, cold, wet, windy, or a combination of these uncomfortable conditions. We will go out rain or shine unless the conditions are unsafe. It is important that you come to class prepared with whatever you need to keep yourself safe and comfortable outside. It's always a good idea to have a hat and sunscreen and a waterproof layer, even if rain is not in the forecast. For boat work, it is almost always much cooler on the water than land, especially in the spring, so come prepared with multiple layers. Closed-toe shoes are required on the boat. Crocs or sneakers are fine in warm weather. Rubber boots are ideal in cooler weather but sneakers or anything with a grippy rubber sole are fine too. Do not wear flip-flops, heels, or nice shoes that can't get wet or that could scuff up the boat deck. 
-
-I recommend investing in good rain gear especially if you plan to continue doing fieldwork on the water beyond this class. [Grundens](https://grundens.com/) is a reputable marine work gear supplier and they have some affordable options. [Outdoor Research](https://www.outdoorresearch.com/) also sells high-quality gear and you can apply for a [student discount](https://www.outdoorresearch.com/pages/vip-program?gad_source=1&gclid=Cj0KCQjwkdO0BhDxARIsANkNcrfTTRmTvBF6i9f4siwcZSvr-3FYPgDXYPUw5zkBXpXfyFCTJc8cJKAaAtSCEALw_wcB). 
+This course involves outdoor work. Sometimes the weather will be beautiful, but more often it will be hot, sunny, buggy, cold, wet, windy, or a combination of these uncomfortable conditions. We will go out rain or shine unless the conditions are unsafe. It is important that you come to class prepared with whatever you need to keep yourself safe and comfortable outside. It's always a good idea to have a hat and sunscreen and a waterproof layer, even if rain is not in the forecast. For boat work, it is almost always cooler on the water than land, so come prepared with multiple layers. Closed-toe shoes are required on the boat. Crocs or sneakers are fine in warm weather. Rubber boots are ideal in cooler weather but sneakers or anything with a grippy rubber sole is fine too. Do not wear flip-flops, heels, or nice shoes that can't get wet or that could scuff up the boat deck. 
 
 ### Learning outcomes {-}
 At the completion of this course, students will have an in-depth understanding of why and how we conduct ecological monitoring in coastal systems.
@@ -28,26 +26,34 @@ Specific outcomes include being able to:
 * conduct coastal monitoring independently and with a team using standard operating procedures
 * Manage and report coastal monitoring data
 
-### Grading and assessment {-}
-This course emphasizes qualitative feedback and self-assessment over numeric evaluation. Our assessment system in this class will be "ungrading." Education researcher Alfie Kohn [makes a compelling case](https://www.alfiekohn.org/article/case-grades/) that grading doesn't improve learning and can sometimes even harm learning. Therefore, rather than submitting work in exchange for a letter or number grade, your peers and I will provide qualitative feedback and you will self-assess your learning. Once you’ve gotten oriented with the goals of the course and how the various assignments are designed to assess your achievement of these goals, we’ll work together to come up with a set of criteria for your self-evaluation. At the mid-point and end of the semester, you'll compile a portfolio of your work, reflect on your learning, and make a case for the letter grade you have earned based on your portfolio and these criteria. 
+### Assignments {-}
 
-This system is designed to spark your inner motivation to do your best work. We have all been "raised" in a system where most of our learning efforts have revolved around grades, so I know it may be challenging to deviate from that system. I hope that this experience, which puts you in charge of your own learning process and assessment, will be liberating.
+**Homework**
 
-**Assignments**
+Regular homework assignments will assess your progress towards learning weekly learning objectives. Their format will vary depending on the learning objectives, from guided readings to data calculations to knot-tying practice.  
 
-Throughout the semester, we will have some take-home assignments to complete. At the beginning of the semester, they will take the form of guided readings to get you up to speed on coastal restoration and monitoring. These homeworks are designed to help you understand and retain course content in greater depth that can be covered in class. 
+**Practical and written exams**
 
-Later, you'll work on a project doing a deep dive into water quality monitoring sensors. The final product will be a presentation to the class on your sensor, and there will be a series of interim assignments designed to guide you in completing the final presenation. 
+Summative assessments evaluate your learning and proficiency at the end of the course. The summative assessment in this course will take the form of a practical and written exam. The practical exam will assess your progress towards meeting practical skills-based learning objectives. We’ll schedule small group meetings in which you demonstrate your ability to properly calibrate instruments, collect samples, etc. Standard operating procedures (SOPs) will be provided for the practical exam. We'll also have an in-person written exam during finals week to assess your progress towards meeting content-oriented learning objectives. 
 
-**Practical exam**
+**Attendance and engagement self-assessment**
 
-Summative assessments evaluate your learning and proficiency at the end of the course. The summative assessment in this course will take the form of a practical exam. We’ll schedule small group meetings in which you demonstrate your ability to properly calibrate instruments, collect samples, etc. Standard operating procedures (SOPs) will be provided for the practical exam. 
+This is a very hands-on and collaborative class. You can't demonstrate your ability to do coastal monitoring if you don't show up and engage with what we're doing. You know better than anyone how you're doing in this area, so at the mid-point and end of the semester, you'll reflect on your attendance and engagement and give yourself a grade in these areas.
+
+### Grading {-}
+
+Each assignment type will be weighted according to the list below. 
+
+- 30% Homeworks 
+- 30% Practical exam 
+- 30% Written exam 
+- 10% Attendance and engagement self-assessment
 
 ### Class policies {-}
 
 **Attendance**
 
-Since this is an ungraded course, I will not automatically dock your grade due to absences. However, when you write your mid-semester and final learning reflections, you should carefully consider how your attendance record - especially repeated absences - may have impacted your learning and, therefore, your grade. If you need to miss class, first make sure to communicate this with me. Then check the class schedule to see what you missed, review relevant slides and activities, and complete missed assignments on your own. If group-based project work took place, be sure to communicate with your team ASAP to come up with a plan for how you will contribute. If you missed a quiz, it’s up to you to schedule a time with me to make it up (office hours are a great time for this). 
+I will not automatically dock your grade due to absences. However, when you reflect on your attendance and engagement, you should carefully consider how your attendance record - especially repeated absences - may have impacted your learning and, therefore, your grade. If you need to miss class, first make sure to communicate this with me. Then check the class schedule to see what you missed, review relevant slides and activities, and complete missed assignments on your own. 
 
 **Late work**
 
@@ -61,7 +67,7 @@ You might consider using AI to help you develop study guides. However, again, th
 
 **Engaged learning**
 
-SMCM has recently decreased the amount of time allocated to class meetings. Because our course meeting times are longer than required for a 2-credit course, most of our "engaged learning" will take place via hands-on activities in class. Occasionally, students will also make some monitoring measurements on their own outside of class. 
+SMCM has recently decreased the amount of time allocated to class meetings. Because our course meeting times are longer than required for a 2-credit course, most of our "engaged learning" will take place via hands-on activities in class. Occasionally, students may also make some monitoring measurements on their own outside of class. 
 
 **Office hours**
 
