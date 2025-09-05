@@ -30,7 +30,12 @@ Specific outcomes include being able to:
 
 **Homework**
 
-Regular homework assignments will assess your progress towards learning weekly learning objectives. Their format will vary depending on the learning objectives, from guided readings to data calculations to knot-tying practice.  
+Regular homework assignments will assess your progress towards learning weekly learning objectives. Their format will vary depending on the learning objectives, from guided readings to data calculations to knot-tying practice. These assignments are graded on a scale of 0-3 to minimize the stress of losing points over a couple of minor mistakes:
+
+- 3: Assignment is complete; most of the work is free of errors, thorough, and well-supported
+- 2: Assignment is partially complete and/or contains some errors and/or work could use some more development
+- 1: Assignment is mostly incomplete and/or contains many errors and/or needs a lot more development
+- 0: Did not complete/submit 
 
 **Practical and written exams**
 
