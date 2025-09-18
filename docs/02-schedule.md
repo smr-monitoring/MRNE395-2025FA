@@ -1,6 +1,6 @@
 # Schedule {-}
 
-The table below is a comprehensive guide to the semester. The `topics and materials` column has links to learning objectives, a lesson plan, and materials used in each class. The `homework` column outlines the homework schedule.  Homework assignments should be viewed and submitted in Google Classroom.
+The table below is a comprehensive guide to the semester. The `topics and materials` column has links to learning objectives, a lesson plan, and materials used in each class. The `homework` column outlines the homework schedule.  Homework assignments should be viewed and submitted in Google Classroom 
 <table class="table table-hover table-condensed" style="font-size: 12px; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
@@ -29,16 +29,16 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   <tr>
    <td style="text-align:right;"> 3 </td>
    <td style="text-align:left;"> F 09/19 </td>
-   <td style="text-align:left;"> SAV monitoring - St. Inigoes (be prepared to wade in the water) </td>
+   <td style="text-align:left;"> [SAV monitoring - St. Inigoes](https://smr-monitoring.github.io/lesson-plans/03-sav-monitoring.html) </td>
    <td style="text-align:left;"> HW 2 </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Be prepared to wade in the water </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 4 </td>
    <td style="text-align:left;"> F 09/26 </td>
    <td style="text-align:left;"> [Calibration](https://smr-monitoring.github.io/lesson-plans/03-calibration.html) </td>
    <td style="text-align:left;"> HW 3 </td>
-   <td style="text-align:left;"> bring your line to class </td>
+   <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 5 </td>
