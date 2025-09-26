@@ -36,7 +36,7 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   <tr>
    <td style="text-align:right;"> 4 </td>
    <td style="text-align:left;"> F 09/26 </td>
-   <td style="text-align:left;"> [Calibration](https://smr-monitoring.github.io/lesson-plans/03-calibration.html) </td>
+   <td style="text-align:left;"> [Calibration](https://smr-monitoring.github.io/lesson-plans/04-calibration.html) </td>
    <td style="text-align:left;"> HW 3 </td>
    <td style="text-align:left;">  </td>
   </tr>
