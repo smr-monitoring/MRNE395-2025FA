@@ -50,23 +50,23 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   <tr>
    <td style="text-align:right;"> 6 </td>
    <td style="text-align:left;"> F 10/10 </td>
-   <td style="text-align:left;"> [Continuous monitoring - data corrections](https://smr-monitoring.github.io/lesson-plans/06-conmon-drift-corrections.html) </td>
+   <td style="text-align:left;"> [CONMON deploy](https://smr-monitoring.github.io/lesson-plans/06-conmon-deploy.html) </td>
    <td style="text-align:left;"> HW 5 </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> bring your line to class; be prepared to go outside </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 7 </td>
    <td style="text-align:left;"> F 10/17 </td>
-   <td style="text-align:left;"> [CONMON deploy](https://smr-monitoring.github.io/lesson-plans/07-conmon-deploy.html) </td>
+   <td style="text-align:left;"> [CONMON retrieve](https://smr-monitoring.github.io/lesson-plans/07-conmon-retrieve.html) </td>
    <td style="text-align:left;"> HW 6 </td>
    <td style="text-align:left;"> be prepared to go outside </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 8 </td>
    <td style="text-align:left;"> F 10/24 </td>
-   <td style="text-align:left;"> [CONMON retrieve](https://smr-monitoring.github.io/lesson-plans/08-conmon-retrieve.html) </td>
+   <td style="text-align:left;"> [Continuous monitoring - data corrections](https://smr-monitoring.github.io/lesson-plans/06-conmon-drift-corrections.html) </td>
    <td style="text-align:left;"> HW 7 </td>
-   <td style="text-align:left;"> be prepared to go outside </td>
+   <td style="text-align:left;">  </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 9 </td>
