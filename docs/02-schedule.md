@@ -1,6 +1,6 @@
 # Schedule {-}
 
-The table below is a comprehensive guide to the semester. The `topics and materials` column has links to learning objectives, a lesson plan, and materials used in each class. The `homework` column outlines the homework schedule.  Homework assignments should be viewed and submitted in Google Classroom 
+The table below is a comprehensive guide to the semester. The `topics and materials` column has links to learning objectives, a lesson plan, and materials used in each class. The `homework` column outlines the homework schedule.  Homework assignments should be viewed and submitted in Google Classroom.
 <table class="table table-hover table-condensed" style="font-size: 12px; margin-left: auto; margin-right: auto;">
  <thead>
   <tr>
@@ -64,16 +64,16 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   <tr>
    <td style="text-align:right;"> 8 </td>
    <td style="text-align:left;"> F 10/24 </td>
-   <td style="text-align:left;"> [Continuous monitoring - data corrections](https://smr-monitoring.github.io/lesson-plans/06-conmon-drift-corrections.html) </td>
+   <td style="text-align:left;"> EXO 1 </td>
    <td style="text-align:left;"> HW 7 </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> bring your line to class; be prepared to go outside </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 9 </td>
    <td style="text-align:left;"> F 10/31 </td>
-   <td style="text-align:left;"> TBA </td>
+   <td style="text-align:left;"> EXO 2 </td>
    <td style="text-align:left;"> HW 8 </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> be prepared to go outside </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 10 </td>
@@ -87,7 +87,7 @@ The table below is a comprehensive guide to the semester. The `topics and materi
    <td style="text-align:left;"> F 11/14 </td>
    <td style="text-align:left;"> [Discrete monitoring](https://smr-monitoring.github.io/lesson-plans/10-discrete-boat.html) </td>
    <td style="text-align:left;"> HW 10 </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> be prepared to go outside </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 12 </td>

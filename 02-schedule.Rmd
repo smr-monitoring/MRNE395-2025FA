@@ -1,6 +1,6 @@
 # Schedule {-}
 
-The table below is a comprehensive guide to the semester. The `topics and materials` column has links to learning objectives, a lesson plan, and materials used in each class. The `homework` column outlines the homework schedule.  Homework assignments should be viewed and submitted in Google Classroom 
+The table below is a comprehensive guide to the semester. The `topics and materials` column has links to learning objectives, a lesson plan, and materials used in each class. The `homework` column outlines the homework schedule.  Homework assignments should be viewed and submitted in Google Classroom.
 ```{r, echo = FALSE, message = FALSE, warning = FALSE}
 library(gt)
 library(tidyverse)
