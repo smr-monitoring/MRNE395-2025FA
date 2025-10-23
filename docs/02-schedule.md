@@ -64,21 +64,21 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   <tr>
    <td style="text-align:right;"> 8 </td>
    <td style="text-align:left;"> F 10/24 </td>
-   <td style="text-align:left;"> EXO 1 </td>
+   <td style="text-align:left;"> [CONMON at SMCM overview](https://smr-monitoring.github.io/lesson-plans/08-conmon-at-smcm.html) </td>
    <td style="text-align:left;"> HW 7 </td>
    <td style="text-align:left;"> bring your line to class; be prepared to go outside </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 9 </td>
    <td style="text-align:left;"> F 10/31 </td>
-   <td style="text-align:left;"> EXO 2 </td>
+   <td style="text-align:left;"> [Discrete monitoring](https://smr-monitoring.github.io/lesson-plans/09-discrete-monitoring.html) </td>
    <td style="text-align:left;"> HW 8 </td>
    <td style="text-align:left;"> be prepared to go outside </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 10 </td>
    <td style="text-align:left;"> F 11/07 </td>
-   <td style="text-align:left;"> [Discrete monitoring](https://smr-monitoring.github.io/lesson-plans/09-discrete-monitoring.html) </td>
+   <td style="text-align:left;"> CONMON at SMCM cont. </td>
    <td style="text-align:left;"> HW 9 </td>
    <td style="text-align:left;"> be prepared to go outside </td>
   </tr>
