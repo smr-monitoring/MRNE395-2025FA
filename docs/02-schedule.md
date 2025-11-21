@@ -85,7 +85,7 @@ The table below is a comprehensive guide to the semester. The `topics and materi
   <tr>
    <td style="text-align:right;"> 11 </td>
    <td style="text-align:left;"> F 11/14 </td>
-   <td style="text-align:left;"> [Discrete monitoring](https://smr-monitoring.github.io/lesson-plans/10-discrete-boat.html) </td>
+   <td style="text-align:left;"> CBG out - no class </td>
    <td style="text-align:left;"> HW 10 </td>
    <td style="text-align:left;"> be prepared to go outside </td>
   </tr>
@@ -94,7 +94,7 @@ The table below is a comprehensive guide to the semester. The `topics and materi
    <td style="text-align:left;"> F 11/21 </td>
    <td style="text-align:left;"> [Skills review](https://smr-monitoring.github.io/lesson-plans/11-skills-review.html) </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> meet in River Center classroom; be prepared to go outside </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 13 </td>
@@ -108,21 +108,21 @@ The table below is a comprehensive guide to the semester. The `topics and materi
    <td style="text-align:left;"> F 12/05 </td>
    <td style="text-align:left;"> [Skills assessment](https://smr-monitoring.github.io/lesson-plans/12-skills-assessment.html) </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> be prepared to go outside </td>
+   <td style="text-align:left;"> meet in River Center classroom; be prepared to go outside </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 15 </td>
    <td style="text-align:left;"> F 12/12 </td>
-   <td style="text-align:left;"> DIY monitoring technology </td>
+   <td style="text-align:left;"> Exam review </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> meet in River Center classroom; be prepared to go outside </td>
   </tr>
   <tr>
    <td style="text-align:right;"> 16 </td>
    <td style="text-align:left;"> W 12/17 </td>
    <td style="text-align:left;"> 2:00-4:15 Final written exam </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> meet in SH 112 </td>
   </tr>
 </tbody>
 </table>
